@@ -1,0 +1,181 @@
+"Cfgs"
+{
+	"服务器选项"
+	{
+		"sm_restartmap5"
+		{
+			"message" "重置当前地图"
+		}
+		"sm_vk"
+		{
+			"message" "投票踢出玩家"
+		}
+		"sm_restart"
+		{
+			"message" "服务器端重启"
+		}
+		"sm_respawnall"
+		{
+			"message" "复活所有玩家"
+		}
+	}
+	"突变模式"
+	{
+		"exec vt_cfg/mode/coop.cfg"
+		{
+			"message" "战役模式"
+		}
+		"exec vt_cfg/mode/realism.cfg"
+		{
+			"message" "写实模式"
+		}
+		"exec vt_cfg/mode/community5.cfg"
+		{
+			"message" "死亡之门"
+		}
+		"exec vt_cfg/mode/community1.cfg"
+		{
+			"message" "特感速递"
+		}
+		"exec vt_cfg/mode/community2.cfg"
+		{
+			"message" "感染季节"
+		}
+		"exec vt_cfg/mode/mutation4.cfg"
+		{
+			"message" "绝境求生"
+		}
+		"exec vt_cfg/mode/mutation2.cfg"
+		{
+			"message" "猎头者模式"
+		}
+		"exec vt_cfg/mode/survival.cfg"
+		{
+			"message" "生还者模式"
+		}
+		"exec vt_cfg/mode/community4.cfg"
+		{
+			"message" "噩梦经历"
+		}
+	}
+	"HUD设置"
+	{
+		"sm_cvar l4d2_hud_style 3"
+		{
+			"message" "开启HUD"
+		}
+		"sm_cvar l4d2_hud_style 0"
+		{
+			"message" "关闭HUD"
+		}
+	}
+	"传送设置"
+	{
+		"sm_cvar l4d2_transmit_enable 1"
+		{
+			"message" "开启传送"
+		}
+		"sm_cvar l4d2_transmit_enable 0"
+		{
+			"message" "关闭传送"
+		}
+	}
+	"连跳设置"
+	{
+		"exec vt_cfg/bhop/bhop.cfg"
+		{
+			"message" "开启连跳(无摔伤)"
+		}
+		"exec vt_cfg/bhop/bhopoff.cfg"
+		{
+			"message" "关闭连跳"
+		}
+	}
+	"队友伤害"
+	{
+		"sm_cvar friendly_fire_enable 1"
+		{
+			"message" "开启队友伤害惩罚"
+		}
+		"sm_cvar friendly_fire_enable 0"
+		{
+			"message" "关闭队友伤害惩罚"
+		}
+		"sm_setff off"
+		{
+			"message" "关闭队友伤害"
+		}
+		"sm_setff on"
+		{
+			"message" "恢复队友伤害"
+		}
+		"sm_setff normal"
+		{
+			"message" "普通队友伤害"
+		}
+		"sm_setff top"
+		{
+			"message" "最高队友伤害"
+		}
+	}
+	"回血回弹"
+	{
+		"sm_cvar ss_health 1"
+		{
+			"message" "开启杀特回血"
+		}
+		"sm_cvar ss_health 0"
+		{
+			"message" "关闭杀特回血"
+		}
+		"sm_cvar ss_siammoregain 1"
+		{
+			"message" "开启杀特回弹"
+		}
+		"sm_cvar ss_siammoregain 0"
+		{
+			"message" "关闭杀特回弹"
+		}
+	}
+	"满血复活"
+	{
+		"sm_cvar l4d2_restore_health_flag 1"
+		{
+			"message" "开启过关满血"
+		}
+		"sm_cvar l4d2_restore_health_flag 0"
+		{
+			"message" "关闭过关满血"
+		}
+	}
+	"枪械抖动"
+	{
+		"sm_cvar z_gun_vertical_punch 0"
+		{
+			"message" "关闭枪械抖动"
+		}
+		"sm_cvar z_gun_vertical_punch 1"
+		{
+			"message" "开启枪械抖动"
+		}
+	}
+	"推数模式"
+	{
+		"exec vt_cfg/shove/anne.cfg"
+		{
+			"message" "AnneHappy模式推"
+		}
+		"exec vt_cfg/shove/zonemod.cfg"
+		{
+			"message" "ZoneMod模式推"
+		}
+		"exec vt_cfg/shove/default.cfg"
+		{
+			"message" "默认模式推"
+		}
+		"exec vt_cfg/shove/yule.cfg"
+		{
+			"message" "娱乐99推"
+		}
+	}
+}	

@@ -1,0 +1,102 @@
+"Cfgs"
+{
+	"服务器选项"
+	{
+		"sm_restartmap5"
+		{
+			"message" "重置当前地图"
+		}
+		"sm_vk"
+		{
+			"message" "投票踢出玩家"
+		}
+		"sm_restart"
+		{
+			"message" "服务器端重启"
+		}
+	}
+	"击杀数量"
+	{
+		"none"
+		{
+			"message" "提示:固定回合/救援无效"
+		}
+		"sm_cvar svs_total_kill 50"
+		{
+			"message" "击杀50回合结束"
+		}
+		"sm_cvar svs_total_kill 100"
+		{
+			"message" "击杀100回合结束"
+		}
+		"sm_cvar svs_total_kill 150"
+		{
+			"message" "击杀150回合结束"
+		}
+		"sm_cvar svs_total_kill 200"
+		{
+			"message" "击杀200回合结束"
+		}
+		"sm_cvar svs_total_kill 250"
+		{
+			"message" "击杀250回合结束"
+		}
+		"sm_cvar svs_total_kill 300"
+		{
+			"message" "击杀300回合结束"
+		}
+	}
+	"地图版本"
+	{
+		"none"
+		{
+			"message" "提示:切换地图会重启关卡"
+		}
+		"exec vt_cfg/mapstripper/default.cfg"
+		{
+			"message" "默认地图"
+		}
+		"exec vt_cfg/mapstripper/zonemod.cfg"
+		{
+			"message" "ZoneMod地图"
+		}
+		"exec vt_cfg/mapstripper/noemod.cfg"
+		{
+			"message" "NeoMod地图"
+		}
+		"exec vt_cfg/mapstripper/deadman.cfg"
+		{
+			"message" "DeadMan地图"
+		}
+	}
+	"枪械抖动"
+	{
+		"sm_cvar z_gun_vertical_punch 0"
+		{
+			"message" "关闭枪械抖动"
+		}
+		"sm_cvar z_gun_vertical_punch 1"
+		{
+			"message" "开启枪械抖动"
+		}
+	}
+	"推数模式"
+	{
+		"exec vt_cfg/shove/anne.cfg"
+		{
+			"message" "AnneHappy模式推"
+		}
+		"exec vt_cfg/shove/zonemod.cfg"
+		{
+			"message" "ZoneMod模式推"
+		}
+		"exec vt_cfg/shove/default.cfg"
+		{
+			"message" "默认模式推"
+		}
+		"exec vt_cfg/shove/yule.cfg"
+		{
+			"message" "娱乐99推"
+		}
+	}
+}	

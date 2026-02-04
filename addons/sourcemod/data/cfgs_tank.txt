@@ -1,0 +1,215 @@
+"Cfgs"
+{
+	"服务器选项"
+	{
+		"sm_restartmap5"
+		{
+			"message" "重置当前地图"
+		}
+		"sm_vk"
+		{
+			"message" "投票踢出玩家"
+		}
+		"sm_restart"
+		{
+			"message" "服务器端重启"
+		}
+		"sm_respawnall"
+		{
+			"message" "复活所有玩家"
+		}
+	}
+	"商店设置"
+	{
+		"sm_cvar l4d2_shop_disable 0"
+		{
+			"message" "开启商店"
+		}
+		"sm_cvar l4d2_shop_disable 1"
+		{
+			"message" "关闭商店"
+		}
+		"sm_cvar l4d2_medical_enable 1"
+		{
+			"message" "开启医疗物品购买"
+		}
+		"sm_cvar l4d2_medical_enable 0"
+		{
+			"message" "关闭医疗物品购买"
+		}
+		"sm_cvar l4d2_transmit_enable 1"
+		{
+			"message" "开启传送"
+		}
+		"sm_cvar l4d2_transmit_enable 0"
+		{
+			"message" "关闭传送"
+		}
+	}
+	"坦克数量"
+	{
+		"sm_cvar l4d2_limit_tank 5"
+		{
+			"message" "上限5个坦克"
+		}
+		"sm_cvar l4d2_limit_tank 8"
+		{
+			"message" "上限8个坦克"
+		}
+		"sm_cvar l4d2_limit_tank 10"
+		{
+			"message" "上限10个坦克"
+		}
+		"sm_cvar l4d2_limit_tank 12"
+		{
+			"message" "上限12个坦克"
+		}
+		"sm_cvar l4d2_limit_tank 15"
+		{
+			"message" "上限15个坦克"
+		}
+		"sm_cvar l4d2_limit_tank 20"
+		{
+			"message" "上限20个坦克"
+		}
+	}
+	"坦克时间"
+	{
+		"sm_cvar l4d2_sapwn_tank_time 5"
+		{
+			"message" "间隔5秒刷新一次"
+		}
+		"sm_cvar l4d2_sapwn_tank_time 10"
+		{
+			"message" "间隔10秒刷新一次"
+		}
+		"sm_cvar l4d2_sapwn_tank_time 15"
+		{
+			"message" "间隔15秒刷新一次"
+		}
+		"sm_cvar l4d2_sapwn_tank_time 20"
+		{
+			"message" "间隔20秒刷新一次"
+		}
+	}
+	"玩家坦克"
+	{
+		"sm_cvar l4d2_can_play_tank 1"
+		{
+			"message" "开启玩家坦克"
+		}
+		"sm_cvar l4d2_can_play_tank 0"
+		{
+			"message" "关闭玩家坦克"
+		}
+	}
+	"坦克连跳"
+	{
+		"sm_cvar ai_TankAllowBhop 1"
+		{
+			"message" "开启坦克连跳"
+		}
+		"sm_cvar ai_TankAllowBhop 0"
+		{
+			"message" "关闭坦克连跳"
+		}
+	}
+	"HUD设置"
+	{
+		"sm_cvar l4d2_hud_style 3"
+		{
+			"message" "开启HUD"
+		}
+		"sm_cvar l4d2_hud_style 0"
+		{
+			"message" "关闭HUD"
+		}
+	}
+	"队友伤害"
+	{
+		"sm_cvar friendly_fire_enable 1"
+		{
+			"message" "开启队友伤害惩罚"
+		}
+		"sm_cvar friendly_fire_enable 0"
+		{
+			"message" "关闭队友伤害惩罚"
+		}
+		"sm_setff off"
+		{
+			"message" "关闭队友伤害"
+		}
+		"sm_setff on"
+		{
+			"message" "恢复队友伤害"
+		}
+		"sm_setff normal"
+		{
+			"message" "普通队友伤害"
+		}
+		"sm_setff top"
+		{
+			"message" "最高队友伤害"
+		}
+	}
+	"回血回弹"
+	{
+		"sm_cvar ss_health 1"
+		{
+			"message" "开启杀特回血"
+		}
+		"sm_cvar ss_health 0"
+		{
+			"message" "关闭杀特回血"
+		}
+		"sm_cvar ss_siammoregain 1"
+		{
+			"message" "开启杀特回弹"
+		}
+		"sm_cvar ss_siammoregain 0"
+		{
+			"message" "关闭杀特回弹"
+		}
+	}
+	"满血复活"
+	{
+		"sm_cvar l4d2_restore_health_flag 1"
+		{
+			"message" "开启过关满血"
+		}
+		"sm_cvar l4d2_restore_health_flag 0"
+		{
+			"message" "关闭过关满血"
+		}
+	}
+	"枪械抖动"
+	{
+		"sm_cvar z_gun_vertical_punch 0"
+		{
+			"message" "关闭枪械抖动"
+		}
+		"sm_cvar z_gun_vertical_punch 1"
+		{
+			"message" "开启枪械抖动"
+		}
+	}
+	"推数模式"
+	{
+		"exec vt_cfg/shove/anne.cfg"
+		{
+			"message" "AnneHappy模式推"
+		}
+		"exec vt_cfg/shove/zonemod.cfg"
+		{
+			"message" "ZoneMod模式推"
+		}
+		"exec vt_cfg/shove/default.cfg"
+		{
+			"message" "默认模式推"
+		}
+		"exec vt_cfg/shove/yule.cfg"
+		{
+			"message" "娱乐99推"
+		}
+	}
+}	

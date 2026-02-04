@@ -1,0 +1,56 @@
+"MatchModes"
+{
+	"单人模式"
+	{
+		"match/alone/alone1"
+		{
+			"name" "单人模式(大枪)"
+		}
+		"match/alone/alone2"
+		{
+			"name" "单人模式(小枪)"
+		}
+		"match/hunter/hunter"
+		{
+			"name" "Hunter训练"
+		}
+	}
+	"SVS模式"
+	{
+		"match/svs/svs1"
+		{
+			"name" "SVS固定回合模式"
+		}
+		"match/svs/svs2"
+		{
+			"name" "SVS随机重生模式"
+		}
+	}
+	"多人模式"
+	{
+		"match/lily/lily"
+		{
+			"name" "药役模式"
+		}
+		"match/hunter/hunterparty"
+		{
+			"name" "Hunter派对"
+		}
+		"match/charger/charger"
+		{
+			"name" "牛牛快跑"
+		}
+		"match/tankrun/tankrun"
+		{
+			"name" "坦克润"
+		}
+		"match/cj/cj"
+		{
+			"name" "纯净模式"
+		}
+		"match/fog/fog"
+		{
+			"name" "浓雾模式"
+		}
+	}
+}

@@ -1,0 +1,88 @@
+// Advertisements 2.0
+// by Tsunami
+//
+// Types
+// -----
+// center: Center message
+// chat: Chat message
+// hint: Hint message
+// menu: Menu message
+// top: Top message
+//
+// Flags (optional)
+// -----
+// Accepts flags of admins that will not see the advertisement.
+// When omitted everyone will see the advertisement.
+// When left empty only admins will see the advertisement.
+
+"Advertisements"
+{
+	"1"
+	{		
+		"chat"		"{GREEN}[公告] {BLUE}!g{OLIVE}丢弃枪械 {BLUE}!zs或!kill{OLIVE}自杀 {BLUE}!jg或!join{OLIVE}加入游戏"
+	}
+	"2"
+	{		
+		"chat"		"{GREEN}[公告] {BLUE}!match{OLIVE}切换模式 {BLUE}!v{OLIVE}投票更改功能 {BLUE}!chmap或!maps{OLIVE}投票换图"
+	}
+	"3"
+	{	
+		"chat"		"{BLUE}商店每关可以白嫖{GREEN}2{BLUE}次 枪械和近战共享"
+	}
+	"4"
+	{	
+		"chat"		"{GREEN}[公告] {BLUE}!mvp{OLIVE}查看击杀排行 {BLUE}!gw或!buy{OLIVE}打开商店 {BLUE}!csm{OLIVE}切换任意角色"
+	}
+	"5"
+	{	
+		"chat"		"{GREEN}[公告] {BLUE}!slots{OLIVE}投票修改服务器人数"
+	}
+	"6"
+	{	
+		"chat"		"{OLIVE}按{GREEN}Z{OLIVE}标记 按{GREEN}R{OLIVE}转移物品给他人"
+	}
+	"7"
+	{	
+		"chat"		"{GREEN}[公告] {BLUE}!teams{OLIVE}查看当前生还状态"
+	}
+	"8"
+	{	
+		"chat"		"{BLUE}tank局不要光顾着集火，及时清理出现的队友也是很重要的"
+	}
+	"9"
+	{	
+		"chat"		"{OLIVE}打不过可以考虑{BLUE}!sc或!skipchapter{OLIVE}投票跳过本关"
+	}
+	"10"
+	{	
+		"chat"		"{BLUE}倒地的队友可以多黑几枪，反正扶起来一个样"
+	}
+	"11"
+	{	
+		"chat"		"{GREEN}[服名]: {LIGHTGREEN}{hostname} \n{GREEN}[章节]: {LIGHTGREEN}{CURRENTMAP} \n{GREEN}[时间]: {LIGHTGREEN}{TIME24} - {DATE}"
+	}
+	"12"
+	{	
+		"chat"		"{GREEN}[公告] {BLUE}!tp{OLIVE}传送到队友附近，只有{GREEN}2{OLIVE}次机会，请在卡住或迷路时使用"
+	}
+	"13"
+	{	
+		"chat"		"{OLIVE}子弹不足可使用{BLUE}!ammo{OLIVE}补充后备弹夹"
+	}
+	"14"
+	{	
+		"chat"		"{OLIVE}点数可通过击杀坦克或者女巫，以及通关获取"
+	}
+	"15"
+	{	
+		"chat"		"{GREEN}抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当。\n适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。"
+	}
+	"16"
+	{	
+		"chat"		"{OLIVE}可以使用{BLUE}!vk{OLIVE}投票踢出恶意玩家"
+	}
+	"17"
+	{	
+		"chat"		"{BLUE}胆汁可以糊队友一脸，当然，也可以糊自己"
+	}
+}

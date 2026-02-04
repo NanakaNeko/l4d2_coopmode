@@ -1,0 +1,70 @@
+"Phrases"
+{
+	"TagKills"
+	{
+		"en"		"[{olive}1v1Stat{default}] {green}Kills{default}:"
+		"chi"		"[{olive}1v1数据{default}] {green}击杀数{default}:"
+	}
+	"TagSkeet"
+	{
+		"en"		"[{olive}1v1Stat{default}] {green}Skeet{default}:"
+		"chi"		"[{olive}1v1数据{default}] {green}空爆数{default}:"
+	}
+	"TagAcc"
+	{
+		"en"		"[{olive}1v1Stat{default}] {green}Accuracy{default}:"
+		"chi"		"[{olive}1v1数据{default}] {green}准确度{default}:"
+	}
+    // 1. SI damage & SI kills
+	"SI_DMG_CI"
+	{
+		"#format"   "{1:d},{2:d},{3:d}" // 1:iDidDamageAll[iClientPlaying] 2:iGotKills[iClientPlaying] 3:iGotCommon[iClientPlaying]
+		"en"		"{olive}{1}{default} damage | {olive}{2}{default} kills | {olive}{3}{default} common\n"
+		"chi"		"{olive}{1}{default} 伤害 | {olive}{2}{default} 击杀 | {olive}{3}{default} 丧尸\n"
+	}
+	"SI_DMG"
+	{
+		"#format"   "{1:d},{2:d}" // 1:iDidDamageAll[iClientPlaying] 2:iGotKills[iClientPlaying]
+		"en"		"{olive}{1}{default} damage | {olive}{2}{default} kills\n"
+		"chi"		"{olive}{1}{default} 伤害 | {olive}{2}{default} 击杀\n"
+	}
+	"SI_CI"
+	{
+		"#format"   "{1:d},{2:d}" // 1:iGotKills[iClientPlaying] 2:iGotCommon[iClientPlaying]
+		"en"		"{olive}{1}{default} kills | {olive}{2}{default} common\n"
+		"chi"		"{olive}{1}{default} 特感 | {olive}{2}{default} 丧尸\n"
+	}
+	"SI"
+	{
+		"en"		"{olive}%d{default} kills\n"
+		"chi"		"{olive}%d{default} 特感\n"
+	}
+    // 2. skeets
+	"SKEET"
+	{
+		"#format"   "{1:d},{2:d},{3:d}" // 1:iHuntSkeets[iClientPlaying] 2:iHuntSkeetsInj[iClientPlaying] 3:iDeadStops[iClientPlaying]
+		"en"		"{olive}{1}{default} normal | {olive}{2}{default} hurt | {olive}{3}{default} deadstops\n"
+		"chi"		"{olive}{1}{default} 满血 | {olive}{2}{default} 残血 | {olive}{3}{default} 推停\n"
+	}
+	//  3. accuracy
+	"ACC_AllShots"
+	{
+		"en"		"all shots ({blue}%.0f%%{default})"
+		"chi"		"总命中率 ({blue}%3.0f%%{default} )"
+	}
+	"ACC_BuckShot"
+	{
+		"en"		" | buckshot ({blue}%.0f%%{default})"
+		"chi"		" | 铅弹命中率 ({blue}%3.0f%%{default} )"
+	}
+	"ACC_Melee"
+	{
+		"en"		" | melee ({blue}%.0f%%{default})"
+		"chi"		" | 近战命中率 ({blue}%3.0f%%{default} )"
+	}
+	"ACC_NoShotsFired"
+	{
+		"en"		"No shots fired\n"
+		"chi"		"没开枪\n"
+	}
+}

@@ -1,0 +1,255 @@
+//49
+"Games"
+{
+	"left4dead2"
+	{
+		"Addresses"
+		{
+			"s_vecAddonMetadata"
+			{
+			    "linux"
+			    {
+				    "signature"		"s_vecAddonMetadata"
+			    }
+			    "windows"
+			    {
+				    "signature"		"show_addon_metadata"
+				    "read"	    "49"
+			    }
+			}
+			"msg_VScriptServerRunScriptForAllAddons"
+			{
+				  "signature"		"VScriptServerRunScriptForAllAddons"
+			}
+		}
+
+		"Offsets"
+		{
+			"OS"
+			{
+				"linux"		"1"
+				"windows"	    "0"
+			}
+		}
+
+		"Signatures"
+		{
+			"VScriptServerRunScript"
+			{
+				"library" "server"
+				"linux"		"@_Z22VScriptServerRunScriptPKcP9HSCRIPT__b"
+				"windows"	"\x55\x8B\xEC\x83\xEC\x10\x83\x3D\x2A\x2A\x2A\x2A\x00\x75\x2A"
+			}
+
+			"CMatchExtL4D::ParseMissionFromFile"
+			{
+				"library" "matchmaking_ds"
+				"linux"		"@_ZN12CMatchExtL4D20ParseMissionFromFileEPKcby"
+				"windows"	"\x55\x8B\xEC\x81\xEC\x64\x04\x00\x00"
+			}
+
+			"KeyValues::GetString"
+			{
+				"library" "matchmaking_ds"
+				"linux"		"@_ZN9KeyValues9GetStringEPKcS1_"
+				"windows"	"\x55\x8B\xEC\x81\xEC\x44\x02\x00\x00\xA1\x2A\x2A\x2A\x2A\x33\xC5\x89\x45\xFC\x53"
+			}
+
+			"s_vecAddonMetadata"
+			{
+				"library" "engine"
+				"linux"		"@_ZL18s_vecAddonMetadata"
+			}
+
+			"show_addon_metadata"
+			{
+				"library" "engine"
+				"windows"	"\x83\x3D\x2A\x2A\x2A\x2A\x00\x53\x56\x8B\x35\x2A\x2A\x2A\x2A"
+			}
+
+			"CScriptConvarAccessor::SetValue"
+			{
+				"library" "server"
+				"linux"		"@_ZN21CScriptConvarAccessor8SetValueEPKc12CVariantBaseI24CVariantDefaultAllocatorE"
+				"windows"	"\x55\x8B\xEC\x83\xEC\x08\x56\x8B\x75\x08\x56\x8D\x4D\xF8"
+			}
+
+			"VScriptServerRunScriptForAllAddons"
+			{
+				"library" "server"
+				"linux"		"@_Z34VScriptServerRunScriptForAllAddonsPKcP9HSCRIPT__b"
+				"windows"	"\x55\x8B\xEC\x81\xEC\x1C\x01\x00\x00\xA1\x2A\x2A\x2A\x2A\x33\xC5\x89\x45\xFC\x8B\x45\x08\x53"
+			}
+
+			"V_snprintf"
+			{
+				"library" "server"
+				"linux"		"@_Z10V_snprintfPciPKcz"
+				"windows"	"\x55\x8B\xEC\x8B\x4D\x10\x56\x8B\x75\x0C"
+			}
+
+		}
+
+		"Functions"
+		{
+			"VScriptServerRunScript"
+			{
+				"signature" "VScriptServerRunScript"
+				"callconv" "cdecl"
+				"return" "int"
+				"this" "ignore"
+				"arguments"
+				{
+					"a1"
+					{
+						"type" "charptr"
+					}
+					"a2"
+					{
+						"type" "int"
+					}
+					"a3"
+					{
+						"type" "int"
+					}
+				}
+			}
+
+			"KeyValues::GetString"
+			{
+				"signature" "KeyValues::GetString"
+				"callconv" "thiscall"
+				"return" "charptr"
+				"this" "address"
+				"arguments"
+				{
+					"src"
+					{
+						"type" "charptr"
+					}
+					"dest"
+					{
+						"type" "charptr"
+					}
+				}
+			}
+
+			"CMatchExtL4D::ParseMissionFromFile"
+			{
+				"signature" "CMatchExtL4D::ParseMissionFromFile"
+				"callconv" "thiscall"
+				"return" "int"
+				"this" "address"
+				"arguments"
+				{
+			        "linux"
+			        {
+					    "src"
+					    {
+						    "type" "charptr"
+					    }
+					    "a1"
+					    {
+						    "type" "int"
+					    }
+					    "a2"
+					    {
+						    "type" "int"
+					    }
+			        }
+			        "windows"
+			        {
+					    "src"
+					    {
+						    "type" "charptr"
+					    }
+					    "a3"
+					    {
+						    "type" "charptr"
+					    }
+					    "a1"
+					    {
+						    "type" "int"
+					    }
+					    "a2"
+					    {
+						    "type" "int"
+					    }
+			        }
+				}
+			}
+
+			"V_snprintf"
+			{
+				"signature" "V_snprintf"
+				"callconv" "cdecl"
+				"return" "int"
+				"this" "ignore"
+				"arguments"
+				{
+					"dest"
+					{
+						"type" "charptr"
+					}
+					"length"
+					{
+						"type" "int"
+					}
+					"src1"
+					{
+						"type" "charptr"
+					}
+					"src2"
+					{
+						"type" "charptr"
+					}
+				}
+			}
+
+			"CScriptConvarAccessor::SetValue"
+			{
+				"signature" "CScriptConvarAccessor::SetValue"
+				"callconv" "thiscall"
+				"return" "int"
+				"this" "ignore"
+				"arguments"
+				{
+			        "linux"
+			        {
+					    "a1"
+					    {
+						    "type" "charptr"
+					    }
+					    "a2"
+					    {
+						    "type" "objectptr"
+					    }
+			        }
+			        "windows"
+			        {
+					    "a1"
+					    {
+						    "type" "charptr"
+					    }
+					    "a2"
+					    {
+						    "type" "float"
+					    }
+					    "a3"
+					    {
+						    "type" "int"
+					    }
+					    "a4"
+					    {
+						    "type" "int"
+					    }
+					    "a5"
+					    {
+						    "type" "int"
+					    }
+			        }
+				}
+			}
+		}
+	}
+}

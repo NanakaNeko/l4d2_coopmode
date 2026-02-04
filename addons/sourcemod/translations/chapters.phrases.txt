@@ -1,0 +1,4727 @@
+"Phrases"
+{
+	"c1m1_hotel"
+	{
+		"en"		"1: Hotel"
+	}
+	"c1m2_streets"
+	{
+		"en"		"2: Streets"
+	}
+	"c1m3_mall"
+	{
+		"en"		"3: Mall"
+	}
+	"c1m4_atrium"
+	{
+		"en"		"4: Atrium"
+	}
+	"c2m1_highway"
+	{
+		"en"		"1: Highway"
+	}
+	"c2m2_fairgrounds"
+	{
+		"en"		"2: Fairground"
+	}
+	"c2m3_coaster"
+	{
+		"en"		"3: Coaster"
+	}
+	"c2m4_barns"
+	{
+		"en"		"4: Barns"
+	}
+	"c2m5_concert"
+	{
+		"en"		"5: Concert"
+	}
+	"c3m1_plankcountry"
+	{
+		"en"		"1: Plank Country"
+	}
+	"c3m2_swamp"
+	{
+		"en"		"2: Swamp"
+	}
+	"c3m3_shantytown"
+	{
+		"en"		"3: Shanty Town"
+	}
+	"c3m4_plantation"
+	{
+		"en"		"4: Plantation"
+	}
+	"c4m1_milltown_a"
+	{
+		"en"		"1: Milltown"
+	}
+	"c4m2_sugarmill_a"
+	{
+		"en"		"2: Sugar Mill"
+	}
+	"c4m3_sugarmill_b"
+	{
+		"en"		"3: Mill Escape"
+	}
+	"c4m4_milltown_b"
+	{
+		"en"		"4: Return to Town"
+	}
+	"c4m5_milltown_escape"
+	{
+		"en"		"5: Town Escape"
+	}
+	"c5m1_waterfront"
+	{
+		"en"		"1: Waterfront"
+	}
+	"c5m2_park"
+	{
+		"en"		"2: Park"
+	}
+	"c5m3_cemetery"
+	{
+		"en"		"3: Cemetery"
+	}
+	"c5m4_quarter"
+	{
+		"en"		"4: Quarter"
+	}
+	"c5m5_bridge"
+	{
+		"en"		"5: Bridge"
+	}
+	"c6m1_riverbank"
+	{
+		"en"		"1: Riverbank"
+	}
+	"c6m2_bedlam"
+	{
+		"en"		"2: Underground"
+	}
+	"c6m3_port"
+	{
+		"en"		"3: Port"
+	}
+	"c7m1_docks"
+	{
+		"en"		"1: Docks"
+	}
+	"c7m2_barge"
+	{
+		"en"		"2: Barge"
+	}
+	"c7m3_port"
+	{
+		"en"		"3: Port"
+	}
+	"c8m1_apartment"
+	{
+		"en"		"1: The Apartments"
+	}
+	"c8m2_subway"
+	{
+		"en"		"2: The Subway"
+	}
+	"c8m3_sewers"
+	{
+		"en"		"3: The Sewer"
+	}
+	"c8m4_interior"
+	{
+		"en"		"4: The Hospital"
+	}
+	"c8m5_rooftop"
+	{
+		"en"		"5: Rooftop Finale"
+	}
+	"c9m1_alleys"
+	{
+		"en"		"1: The Alleys"
+	}
+	"c9m2_lots"
+	{
+		"en"		"2: The Truck Depot Finale"
+	}
+	"c10m1_caves"
+	{
+		"en"		"1: The Turnpike"
+	}
+	"c10m2_drainage"
+	{
+		"en"		"2: The Drains"
+	}
+	"c10m3_ranchhouse"
+	{
+		"en"		"3: The Church"
+	}
+	"c10m4_mainstreet"
+	{
+		"en"		"4: The Town"
+	}
+	"c10m5_houseboat"
+	{
+		"en"		"5: Boathouse Finale"
+	}
+	"c11m1_greenhouse"
+	{
+		"en"		"1: The Greenhouse"
+	}
+	"c11m2_offices"
+	{
+		"en"		"2: The Crane"
+	}
+	"c11m3_garage"
+	{
+		"en"		"3: The Construction Site"
+	}
+	"c11m4_terminal"
+	{
+		"en"		"4: The Terminal"
+	}
+	"c11m5_runway"
+	{
+		"en"		"5: Runway Finale"
+	}
+	"c12m1_hilltop"
+	{
+		"en"		"1: The Woods"
+	}
+	"c12m2_traintunnel"
+	{
+		"en"		"2: The Tunnel"
+	}
+	"c12m3_bridge"
+	{
+		"en"		"3: The Bridge"
+	}
+	"c12m4_barn"
+	{
+		"en"		"4: The Train Station"
+	}
+	"c12m5_cornfield"
+	{
+		"en"		"5: Farmhouse Finale"
+	}
+	"c13m1_alpinecreek"
+	{
+		"en"		"1: Alpine Creek"
+	}
+	"c13m2_southpinestream"
+	{
+		"en"		"2: South Pine Stream"
+	}
+	"c13m3_memorialbridge"
+	{
+		"en"		"3: Memorial Bridge"
+	}
+	"c13m4_cutthroatcreek"
+	{
+		"en"		"4: Cut-throat Creek"
+	}
+	"c14m1_junkyard"
+	{
+		"en"		"1: The Junkyard"
+	}
+	"c14m2_lighthouse"
+	{
+		"en"		"2: Lighthouse Finale"
+	}
+	"zc_m1"
+	{
+		"en"		"公园"
+	}
+	"zc_m2"
+	{
+		"en"		"街道"
+	}
+	"zc_m3"
+	{
+		"en"		"城中村"
+	}
+	"zc_m4"
+	{
+		"en"		"小巷"
+	}
+	"zc_m5"
+	{
+		"en"		"立交桥"
+	}
+	"2019_M1b"
+	{
+		"en"		"Condo Building"
+	}
+	"2019_M2b"
+	{
+		"en"		"Innercity River"
+	}
+	"2019_M3b"
+	{
+		"en"		"Xen-Corp Offices"
+	}
+	"beldurra2_1"
+	{
+		"en"		"Wilderness"
+	}
+	"beldurra2_2"
+	{
+		"en"		"Terror Firma"
+	}
+	"beldurra2_3"
+	{
+		"en"		"Urban Brawl"
+	}
+	"beldurra2_4"
+	{
+		"en"		"Kill de Sac"
+	}
+	"beldurra2_5"
+	{
+		"en"		"Up the River"
+	}
+	"l4d2_bts01_forest"
+	{
+		"en"		"1: Forest"
+	}
+	"l4d2_bts02_station"
+	{
+		"en"		"2: Railroad Station"
+	}
+	"l4d2_bts03_town"
+	{
+		"en"		"3: Town"
+	}
+	"l4d2_bts04_cinema"
+	{
+		"en"		"4: Cinema"
+	}
+	"l4d2_bts05_church"
+	{
+		"en"		"5: Church"
+	}
+	"l4d2_bts06_school"
+	{
+		"en"		"6: School Finale"
+	}
+	"cotd01_apartments"
+	{
+		"en"		"1: Apartments"
+	}
+	"cotd02_warehouse"
+	{
+		"en"		"2: Warehouse"
+	}
+	"cotd03_mall"
+	{
+		"en"		"3: Abandoned Mall"
+	}
+	"cotd04_rooftop"
+	{
+		"en"		"4: Rooftop Escape"
+	}
+	"l4d2_city17_01"
+	{
+		"en"		"1: Tunnels"
+	}
+	"l4d2_city17_02"
+	{
+		"en"		"2: To the surface"
+	}
+	"l4d2_city17_03"
+	{
+		"en"		"3: Streets"
+	}
+	"l4d2_city17_04"
+	{
+		"en"		"4: Hospital"
+	}
+	"l4d2_city17_05"
+	{
+		"en"		"5: Trainstation"
+	}
+	"l4d2_crashbandicootvs1"
+	{
+		"en"		"N. Sanity Beach"
+	}
+	"l4d2_crashbandicootvs2"
+	{
+		"en"		"Technical Plant Doctors"
+	}
+	"l4d2_crashbandicootvs3"
+	{
+		"en"		"Global Warming"
+	}
+	"l4d2_crashbandicootvs4"
+	{
+		"en"		"Tikimon Twinsanity"
+	}
+	"Cure2_001"
+	{
+		"en"		"Crash Landing"
+	}
+	"Cure2_002"
+	{
+		"en"		"Twister Alley"
+	}
+	"Cure2_003"
+	{
+		"en"		"Gnome Town"
+	}
+	"Cure2_004"
+	{
+		"en"		"Kiddie Park"
+	}
+	"Cure2_005"
+	{
+		"en"		"WonderLand"
+	}
+	"l4d_damit01_orchard"
+	{
+		"en"		"1: Orchard"
+	}
+	"l4d_damit02_campground"
+	{
+		"en"		"2: Campground"
+	}
+	"l4d_damit03_dam"
+	{
+		"en"		"3: Dam"
+	}
+	"dw_woods"
+	{
+		"en"		"1: Woods"
+	}
+	"dw_underground"
+	{
+		"en"		"2: Underground"
+	}
+	"dw_complex"
+	{
+		"en"		"3: Laboratory"
+	}
+	"dw_otherworld"
+	{
+		"en"		"4: Prison"
+	}
+	"dw_final"
+	{
+		"en"		"5: Church"
+	}
+	"l4d2_daybreak01_hotel"
+	{
+		"en"		"1: The Hotel"
+	}
+	"l4d2_daybreak02_coastline"
+	{
+		"en"		"2: The Coastline"
+	}
+	"l4d2_daybreak03_bridge"
+	{
+		"en"		"3: The Bridge"
+	}
+	"l4d2_daybreak04_cruise"
+	{
+		"en"		"4: The Outskirts"
+	}
+	"l4d2_daybreak05_rescue"
+	{
+		"en"		"5: Alcatraz Finale"
+	}
+	"hotel01_market_two"
+	{
+		"en"		"Zombie Chopper Down!"
+	}
+	"hotel02_sewer_two"
+	{
+		"en"		"I Hate Sewers!"
+	}
+	"hotel03_ramsey_two"
+	{
+		"en"		"The Hotel Ramsey"
+	}
+	"hotel04_scaling_two"
+	{
+		"en"		"Take Me To The Top!"
+	}
+	"hotel05_rooftop_two"
+	{
+		"en"		"London Buildings Falling Down!"
+	}
+	"l4d_deathaboard01_prison"
+	{
+		"en"		"Prison"
+	}
+	"l4d_deathaboard02_yard"
+	{
+		"en"		"Prison Yard"
+	}
+	"l4d_deathaboard03_docks"
+	{
+		"en"		"Docks"
+	}
+	"l4d_deathaboard04_ship"
+	{
+		"en"		"Ship"
+	}
+	"l4d_deathaboard05_light"
+	{
+		"en"		"Lighthouse"
+	}
+	"dm1_suburbs"
+	{
+		"en"		"1: Suburbs"
+	}
+	"dm2_blastzone"
+	{
+		"en"		"2: Blast Zone"
+	}
+	"dm3_canyon"
+	{
+		"en"		"3: Canyon"
+	}
+	"dm4_caves"
+	{
+		"en"		"4: Caves"
+	}
+	"dm5_summit"
+	{
+		"en"		"5: Summit"
+	}
+	"esc_jailbreak"
+	{
+		"en"		"Jailbreak"
+	}
+	"esc_sunken_park"
+	{
+		"en"		"Sunken Park"
+	}
+	"esc_bypass"
+	{
+		"en"		"Bypass"
+	}
+	"esc_fly_me_to_the_moon"
+	{
+		"en"		"Fly me to the Moon"
+	}
+	"l4d2_eft1_subsystem"
+	{
+		"en"		"Subway Gunslinging"
+	}
+	"l4d2_eft2_tower"
+	{
+		"en"		"Tower of Power"
+	}
+	"l4d2_eft3_queensquay"
+	{
+		"en"		"Queens Gay Bay"
+	}
+	"l4d2_eft4_drybay"
+	{
+		"en"		"City Fuckers"
+	}
+	"l4d2_eft5_niagaracity"
+	{
+		"en"		"The Falls"
+	}
+	"l4d2_eft6_bordercrossing1"
+	{
+		"en"		"Back To America Escape!"
+	}
+	"bunker"
+	{
+		"en"		"Bunker"
+	}
+	"goingout"
+	{
+		"en"		"Going out"
+	}
+	"followthetracks"
+	{
+		"en"		"Follow the tracks"
+	}
+	"heyvirgil"
+	{
+		"en"		"Hey Virgil"
+	}
+	"smokedwarehouse50"
+	{
+		"en"		"Smoked warehouse"
+	}
+	"hf01_theforest"
+	{
+		"en"		"1: The Forest"
+	}
+	"hf02_thesteeple"
+	{
+		"en"		"2: The Steeple"
+	}
+	"hf03_themansion"
+	{
+		"en"		"3: The Mansion"
+	}
+	"hf04_escape"
+	{
+		"en"		"4: The Tunnel"
+	}
+	"l4d2_coast_01"
+	{
+		"en"		"1: Dock 1"
+	}
+	"l4d2_coast_02"
+	{
+		"en"		"2: Coast"
+	}
+	"l4d2_coast_03"
+	{
+		"en"		"3: Dock 2"
+	}
+	"l4d2_coast_04"
+	{
+		"en"		"4: Highway"
+	}
+	"l4d2_coast_05"
+	{
+		"en"		"5: Bridge Final"
+	}
+	"l4d_ihm01_forest"
+	{
+		"en"		"1: Lost in the Woods"
+	}
+	"l4d_ihm02_manor"
+	{
+		"en"		"2: Climbing the Manor"
+	}
+	"l4d_ihm03_underground"
+	{
+		"en"		"3: The Underground Way"
+	}
+	"l4d_ihm04_lumberyard"
+	{
+		"en"		"4: Lumberyard Evacuation"
+	}
+	"l4d_ihm05_lakeside"
+	{
+		"en"		"5: Lakeside Finale"
+	}
+	"splash1"
+	{
+		"en"		"Main Street"
+	}
+	"splash2"
+	{
+		"en"		"Adventureland"
+	}
+	"splash3"
+	{
+		"en"		"New Orleans Square"
+	}
+	"splash4"
+	{
+		"en"		"Splash Mountain"
+	}
+	"splash5"
+	{
+		"en"		"Critter Country"
+	}
+	"l4d2_diescraper1_apartment_361"
+	{
+		"en"		"Apartment complex"
+	}
+	"l4d2_diescraper2_streets_361"
+	{
+		"en"		"Downtown military outpost"
+	}
+	"l4d2_diescraper3_mid_361"
+	{
+		"en"		"The Skymall"
+	}
+	"l4d2_diescraper4_top_361"
+	{
+		"en"		"The top suites"
+	}
+	"l4d_149_1"
+	{
+		"en"		"1: The Dawn of Zombies"
+	}
+	"l4d_149_2"
+	{
+		"en"		"2: The Alamo"
+	}
+	"l4d_149_3"
+	{
+		"en"		"3: Bad Moon Rising"
+	}
+	"l4d_149_4"
+	{
+		"en"		"4: Fire Hazard"
+	}
+	"l4d_149_5"
+	{
+		"en"		"5: The Tomb"
+	}
+	"l4d2_tanksplayground"
+	{
+		"en"		"Coop"
+	}
+	"l4d_yama_1"
+	{
+		"en"		"Tokyo Streets"
+	}
+	"l4d_yama_2"
+	{
+		"en"		"Forest Town"
+	}
+	"l4d_yama_3"
+	{
+		"en"		"Kiyomizu Temple"
+	}
+	"l4d_yama_4"
+	{
+		"en"		"Mining Village"
+	}
+	"l4d_yama_5"
+	{
+		"en"		"Maya Kanko Hotel"
+	}
+	"leftinprypiatc1mf"
+	{
+		"en"		"Left In Prypiat"
+	}
+	"silenthill3mall"
+	{
+		"en"		"Central Square"
+	}
+	"silenthill3othermall"
+	{
+		"en"		"Otherworld Mall"
+	}
+	"silenthill3subway"
+	{
+		"en"		"Subway Station"
+	}
+	"silenthill3underground"
+	{
+		"en"		"Underground Pass"
+	}
+	"silenthill3site"
+	{
+		"en"		"Hilltop Center"
+	}
+	"silenthill3otherofficebuilding"
+	{
+		"en"		"Otherworld Hilltop"
+	}
+	"silenthill3apartment"
+	{
+		"en"		"Bergen Street"
+	}
+	"l4d2_mic2_trapmentd"
+	{
+		"en"		"The Entrapment"
+	}
+	"l4d2_mic2_decentd"
+	{
+		"en"		"Decent To..."
+	}
+	"l4d2_mic2_bunker_part1"
+	{
+		"en"		"The Effing Bunker"
+	}
+	"l4d2_mic2_bunker_part2"
+	{
+		"en"		"The Bunker: Zombie Hell"
+	}
+	"l4d2_mic_bunker_top"
+	{
+		"en"		"The Bunker: Summit"
+	}
+	"l4d2_mic_bunker_bottom"
+	{
+		"en"		"The Bunker: Tank Hell"
+	}
+	"l4d2_mic_escape"
+	{
+		"en"		"All Aboard The Crazy Train"
+	}
+	"l4d2_mic_finale"
+	{
+		"en"		"Epic Tower Escape"
+	}
+	"undergroundfacility"
+	{
+		"en"		"Processing Area"
+	}
+	"survivalmap6"
+	{
+		"en"		"Chemical Storage Plant"
+	}
+	"awakening"
+	{
+		"en"		"The Awakening"
+	}
+	"necromap4main"
+	{
+		"en"		"Double Exposure"
+	}
+	"quarantine"
+	{
+		"en"		"Quarantine"
+	}
+	"NP_Forest"
+	{
+		"en"		"NP:Forest"
+	}
+	"Np_Deepwithin"
+	{
+		"en"		"NP:Deepwithin"
+	}
+	"NP_Ocean"
+	{
+		"en"		"NP:Ocean"
+	}
+	"NP_Rescue"
+	{
+		"en"		"NP:Rescue"
+	}
+	"qe2_ep1"
+	{
+		"en"		"Episode 1"
+	}
+	"qe2_ep2"
+	{
+		"en"		"Episode 2"
+	}
+	"qe2_ep3"
+	{
+		"en"		"Episode 3"
+	}
+	"qe2_ep4"
+	{
+		"en"		"Episode 4"
+	}
+	"qe2_ep5"
+	{
+		"en"		"Episode 5"
+	}
+	"re3m1"
+	{
+		"en"		"Uptown"
+	}
+	"re3m2"
+	{
+		"en"		"Police Department"
+	}
+	"re3m3"
+	{
+		"en"		"Downtown"
+	}
+	"re3m4"
+	{
+		"en"		"Clock Tower"
+	}
+	"re3m5"
+	{
+		"en"		"Hospital"
+	}
+	"re3m6"
+	{
+		"en"		"Park"
+	}
+	"re3m7"
+	{
+		"en"		"Dead Factory"
+	}
+	"re3m8"
+	{
+		"en"		"Last Escape"
+	}
+	"saltwell_1_d"
+	{
+		"en"		"Finding The Park"
+	}
+	"saltwell_2_d"
+	{
+		"en"		"Militarised Zone"
+	}
+	"saltwell_3_d"
+	{
+		"en"		"The Lake"
+	}
+	"saltwell_4_d"
+	{
+		"en"		"SaltHell Towers"
+	}
+	"saltwell_5_d"
+	{
+		"en"		"The Crematorium"
+	}
+	"shenmesb"
+	{
+		"en"		"What"
+	}
+	"shenmesb2"
+	{
+		"en"		"Why"
+	}
+	"shenmesb3"
+	{
+		"en"		"How"
+	}
+	"silentfear"
+	{
+		"en"		"Silent Fear"
+	}
+	"SA_01"
+	{
+		"en"		"Lost"
+	}
+	"SA_02"
+	{
+		"en"		"Confusion"
+	}
+	"SA_03"
+	{
+		"en"		"Town of the Silent Spirits"
+	}
+	"SA_04"
+	{
+		"en"		"Woodcreek"
+	}
+	"SA_05"
+	{
+		"en"		"Dereliction"
+	}
+	"SA_06"
+	{
+		"en"		"Otherside"
+	}
+	"SA_07"
+	{
+		"en"		"The Truth"
+	}
+	"the_hive_m1"
+	{
+		"en"		"Hospital"
+	}
+	"the_hive_m2"
+	{
+		"en"		"Descent"
+	}
+	"the_hive_m3"
+	{
+		"en"		"Maze"
+	}
+	"the_hive_m4"
+	{
+		"en"		"Escape"
+	}
+	"the_hive_m5"
+	{
+		"en"		"Mansion"
+	}
+	"persecucion"
+	{
+		"en"		"There is only one way"
+	}
+	"uz_crash"
+	{
+		"en"		"Crash"
+	}
+	"uz_town"
+	{
+		"en"		"Town"
+	}
+	"uz_desert"
+	{
+		"en"		"Desert"
+	}
+	"uz_bunker"
+	{
+		"en"		"Bunker"
+	}
+	"uz_escape"
+	{
+		"en"		"Escape"
+	}
+	"wfp1_track"
+	{
+		"en"		"Trainyard"
+	}
+	"wfp2_horn"
+	{
+		"en"		"Cave"
+	}
+	"wfp3_mill"
+	{
+		"en"		"Industrial Warehouses"
+	}
+	"wfp4_commstation"
+	{
+		"en"		"Radio Stations"
+	}
+	"contra3d01"
+	{
+		"en"		"ContraZ01"
+	}
+	"contra3d02"
+	{
+		"en"		"ContraZ02"
+	}
+	"contra3d03"
+	{
+		"en"		"ContraZ03"
+	}
+	"contra3d04"
+	{
+		"en"		"ContraZ04"
+	}
+	"contra3d05"
+	{
+		"en"		"ContraZ05"
+	}
+	"e10m1"
+	{
+		"en"		"1: Reborn Through Death"
+	}
+	"e10m2"
+	{
+		"en"		"2: Dangerous Descent"
+	}
+	"e10m3"
+	{
+		"en"		"3: Rerouted"
+	}
+	"e10m4"
+	{
+		"en"		"4: The Crino Chamber"
+	}
+	"e10m5"
+	{
+		"en"		"5: Witch Lab"
+	}
+	"e10m6"
+	{
+		"en"		"6: Fateful Escape"
+	}
+	"e10m4_survival"
+	{
+		"en"		"The Crino Chamber"
+	}
+	"e7m1"
+	{
+		"en"		"1: Old Hwy 80"
+	}
+	"e7m2"
+	{
+		"en"		"2: Research Center"
+	}
+	"e7m3"
+	{
+		"en"		"3: Dr. Geiler's Lab"
+	}
+	"e7m4"
+	{
+		"en"		"4: Nexus Catacombs"
+	}
+	"e7m5"
+	{
+		"en"		"5: Lunar Lab"
+	}
+	"e7m6"
+	{
+		"en"		"6: Absolution"
+	}
+	"e7m7"
+	{
+		"en"		"7: Protocol 16"
+	}
+	"l4d2_mimp1"
+	{
+		"en"		"1: Land on islands"
+	}
+	"l4d2_mimp2"
+	{
+		"en"		"2: Cliff Highway"
+	}
+	"l4d2_mimp3"
+	{
+		"en"		"3: Underground passage"
+	}
+	"l4d2_mimp4"
+	{
+		"en"		"4: Abandoned base"
+	}
+	"l4d2_mimp5"
+	{
+		"en"		"5: The forest"
+	}
+	"l4d2_mimp6"
+	{
+		"en"		"6: Mine rescue"
+	}
+	"wow_map1"
+	{
+		"en"		"1: Shopping Mall"
+	}
+	"wow_map2"
+	{
+		"en"		"2: Outpost"
+	}
+	"wow_map3"
+	{
+		"en"		"3: Train Yard"
+	}
+	"wow_map4"
+	{
+		"en"		"4: Harbor"
+	}
+	"wow_map5"
+	{
+		"en"		"5: Lighthouse"
+	}
+	"cf_m1_town"
+	{
+		"en"		"1: The Town"
+	}
+	"cf_m2_mall"
+	{
+		"en"		"2: The Mall"
+	}
+	"cf_m3_evac"
+	{
+		"en"		"3: The Evacuation"
+	}
+	"cf_m4_outskirts"
+	{
+		"en"		"4: The Outskirts"
+	}
+	"cf_m5_highway"
+	{
+		"en"		"5: Highway Finale"
+	}
+	"bhm1_outskirts"
+	{
+		"en"		"1. The Outskirts"
+	}
+	"bhm2_dam"
+	{
+		"en"		"2. The Dam"
+	}
+	"bhm3_station"
+	{
+		"en"		"3. The Station"
+	}
+	"bhm4_base"
+	{
+		"en"		"4. The Base"
+	}
+	"dam1_roads"
+	{
+		"en"		"1. Upper Roads"
+	}
+	"dam1_roads2"
+	{
+		"en"		"2. Lower Roads"
+	}
+	"dam2_bridge"
+	{
+		"en"		"3. The Bridge"
+	}
+	"dam3_canals"
+	{
+		"en"		"4. The Canals"
+	}
+	"dam4_cliffs"
+	{
+		"en"		"5. The Cliff"
+	}
+	"dam5_zephyrhills"
+	{
+		"en"		"6. Zephyrhills"
+	}
+	"map_part1"
+	{
+		"en"		"Episode: 1"
+	}
+	"map_part2"
+	{
+		"en"		"Episode: 2"
+	}
+	"map_part3"
+	{
+		"en"		"Episode: 3"
+	}
+	"map_part4"
+	{
+		"en"		"Episode: 4"
+	}
+	"map_part5"
+	{
+		"en"		"Episode: 5"
+	}
+	"map_part6"
+	{
+		"en"		"Episode: 6"
+	}
+	"map_part7"
+	{
+		"en"		"Episode: 7"
+	}
+	"map_part8"
+	{
+		"en"		"Episode: 8"
+	}
+	"map_part9"
+	{
+		"en"		"Episode: 9"
+	}
+	"map_part10"
+	{
+		"en"		"Episode: 10 (Final)"
+	}
+	"yichang_01"
+	{
+		"en"		"逃离"
+	}
+	"yichang_02"
+	{
+		"en"		"医院"
+	}
+	"yichang_03"
+	{
+		"en"		"CBD"
+	}
+	"yichang_04"
+	{
+		"en"		"夷陵广场"
+	}
+	"cnm1_city1"
+	{
+		"en"		"1: 0号城市"
+	}
+	"cnm2_gay1"
+	{
+		"en"		"2: 尻山基地"
+	}
+	"cnm3_boy1"
+	{
+		"en"		"3: 尻神试炼"
+	}
+	"cnm4_kaoming"
+	{
+		"en"		"4: 羊村"
+	}
+	"CrashBandicootMap1"
+	{
+		"en"		"Gutted"
+	}
+	"CrashBandicootMap2"
+	{
+		"en"		"Faithless"
+	}
+	"CrashBandicootMap3"
+	{
+		"en"		"Flashback"
+	}
+	"CrashBandicootMap4"
+	{
+		"en"		"N-Crypted"
+	}
+	"CrashBandicootMap5"
+	{
+		"en"		"Extinct"
+	}
+	"CrashBandicootMap6"
+	{
+		"en"		"Cortex"
+	}
+	"crashbandicootsurvival1"
+	{
+		"en"		"Tiny Arena"
+	}
+	"crashbandicootsurvival2"
+	{
+		"en"		"Temple of Cortex"
+	}
+	"crashbandicootsurvival3"
+	{
+		"en"		"Courtyard Massacre"
+	}
+	"srocchurch"
+	{
+		"en"		"neighborhood"
+	}
+	"plaza_espana"
+	{
+		"en"		"plaza"
+	}
+	"maria_cristina"
+	{
+		"en"		"avenue"
+	}
+	"mnac"
+	{
+		"en"		"gardens"
+	}
+	"bsas_m1_barrios"
+	{
+		"en"		"Barrios"
+	}
+	"bsas_m2_adrogue"
+	{
+		"en"		"Adrogué"
+	}
+	"bsas_m3_capital"
+	{
+		"en"		"Capital Federal"
+	}
+	"bsas_m4_costanera"
+	{
+		"en"		"Reserva Ecologica"
+	}
+	"bsas2_m1_barrios"
+	{
+		"en"		"Barrios"
+	}
+	"bsas2_m2_adrogue"
+	{
+		"en"		"Adrogué"
+	}
+	"bsas2_m3_constitucion"
+	{
+		"en"		"Constitucion"
+	}
+	"bsas2_m4_obelisco"
+	{
+		"en"		"Obelisco"
+	}
+	"bsas2_m5_retiro"
+	{
+		"en"		"Retiro"
+	}
+	"bsas2_m6_costanera"
+	{
+		"en"		"Club de cebadores"
+	}
+	"prague_1_old_town"
+	{
+		"en"		"Old Town"
+	}
+	"prague_2_middle_class"
+	{
+		"en"		"Middle Class"
+	}
+	"prague_3_park"
+	{
+		"en"		"Park"
+	}
+	"prague_4_bus_depo"
+	{
+		"en"		"Bus Depo"
+	}
+	"nanningcity_departure_m1"
+	{
+		"en"		"1: 启程/Departure"
+	}
+	"nanningcity_chaoyang_square_m2"
+	{
+		"en"		"2: 广场/Square"
+	}
+	"nanningcity_main_street_m3"
+	{
+		"en"		"3: 主街/Main street"
+	}
+	"nanningcity_main_road_m4"
+	{
+		"en"		"4: 主干道/Main road"
+	}
+	"nanningcity_workzone_m5"
+	{
+		"en"		"5: 施工区/Work zone"
+	}
+	"nanningcity_bridge_m6"
+	{
+		"en"		"6: 大桥/Bridge"
+	}
+	"glubtastic5_1"
+	{
+		"en"		"Crash Landing"
+	}
+	"glubtastic5_2"
+	{
+		"en"		"Going Underground"
+	}
+	"glubtastic5_3"
+	{
+		"en"		"Sis Land"
+	}
+	"glubtastic5_4"
+	{
+		"en"		"The Holdout"
+	}
+	"glubtastic5_5"
+	{
+		"en"		"Return to Glub City"
+	}
+	"glubtastic5_6"
+	{
+		"en"		"Glubzilla Returns"
+	}
+	"glubtastic5_bigtesco"
+	{
+		"en"		"  "
+	}
+	"g1m1"
+	{
+		"en"		"1: Sanctuary of Decay"
+	}
+	"g1m2"
+	{
+		"en"		"2: Maggot Pits"
+	}
+	"g1m3"
+	{
+		"en"		"3: Realm of Nightmares"
+	}
+	"g1m4"
+	{
+		"en"		"4: Illusions of Insomnia"
+	}
+	"g1m5"
+	{
+		"en"		"5: South of Heaven"
+	}
+	"g1m6"
+	{
+		"en"		"6: Plague Butcher's Domain"
+	}
+	"g1m7"
+	{
+		"en"		"7: Nightmare's End"
+	}
+	"w4e1_basement"
+	{
+		"en"		"1.Basement"
+	}
+	"w4e2_asylum"
+	{
+		"en"		"2.Asylum"
+	}
+	"w4e3_keeper"
+	{
+		"en"		"3.Keeper"
+	}
+	"w4e4_mansion"
+	{
+		"en"		"4.Mansion"
+	}
+	"w4e5_evil"
+	{
+		"en"		"5.TheEvilWithin"
+	}
+	"omf_01"
+	{
+		"en"		"Forest"
+	}
+	"omf_02"
+	{
+		"en"		"Silo"
+	}
+	"omf_03"
+	{
+		"en"		"Hangar"
+	}
+	"dc3m1_arrival"
+	{
+		"en"		"1. The Arrival"
+	}
+	"dc3m2_riverside"
+	{
+		"en"		"2. Riverside"
+	}
+	"dc3m3_backalley"
+	{
+		"en"		"3. Backalley"
+	}
+	"dc3m4_bridge"
+	{
+		"en"		"4. Bridge"
+	}
+	"dc3m5_plant"
+	{
+		"en"		"5. The Plant"
+	}
+	"dc3m6_station"
+	{
+		"en"		"6. RoofTop"
+	}
+	"p4d_m1"
+	{
+		"en"		"The Apartment"
+	}
+	"p4d_m2"
+	{
+		"en"		"The Motel"
+	}
+	"hsd_m1"
+	{
+		"en"		"The Street"
+	}
+	"sfm"
+	{
+		"en"		"The Manor"
+	}
+	"redemptionII-deadstop"
+	{
+		"en"		"Deadstop"
+	}
+	"redemptionII-plantworks"
+	{
+		"en"		"Cover-UP"
+	}
+	"redemptionII-ceda-pt1"
+	{
+		"en"		"Delve Deeper"
+	}
+	"redemptionii-ceda-pt2"
+	{
+		"en"		"The Truth"
+	}
+	"roundhouse"
+	{
+		"en"		"Escape"
+	}
+	"salvation_rescue"
+	{
+		"en"		"Salvation Rescue Point"
+	}
+	"salvation_town_bridge"
+	{
+		"en"		"Salvation Town"
+	}
+	"salvation_falls"
+	{
+		"en"		"Salvation Falls"
+	}
+	"salvation_funicular"
+	{
+		"en"		"Salvation Funicular"
+	}
+	"salvation_falls_survival"
+	{
+		"en"		"Salvation Falls"
+	}
+	"salvation_falls_clown_survival"
+	{
+		"en"		"Salvation Falls - Clownsaw"
+	}
+	"salvation_town_bridge_survival"
+	{
+		"en"		"Salvation Town Bridge"
+	}
+	"salvation_funicular_survival"
+	{
+		"en"		"Salvation Falls Funicular"
+	}
+	"swamp1_b6nwoe"
+	{
+		"en"		"Run To The Hills!"
+	}
+	"swamp2_b3nwoe"
+	{
+		"en"		"Through The Scary Woods"
+	}
+	"swamp3_b1nwoe"
+	{
+		"en"		"To Grandmothers House We Go"
+	}
+	"l4d2_feetunder_outpostnwoe"
+	{
+		"en"		"Martial Law"
+	}
+	"l4d2_haarpnwoe"
+	{
+		"en"		"H.A.A.R.P."
+	}
+	"l4d2_femacampnwoe"
+	{
+		"en"		"FEMA Camp"
+	}
+	"l4d2_ravenrocknwoe"
+	{
+		"en"		"Raven Rock"
+	}
+	"l4d_ft_station01nwoe"
+	{
+		"en"		"The Streets"
+	}
+	"l4d_ft_station02nwoe"
+	{
+		"en"		"The Sewers"
+	}
+	"l4d_withoutname_complexnwoe"
+	{
+		"en"		"The Complex"
+	}
+	"l4d_withoutname_lakenwoe"
+	{
+		"en"		"Lake View"
+	}
+	"l4d_withoutname_townnwoe"
+	{
+		"en"		"Our Town"
+	}
+	"mvm_mannhattan"
+	{
+		"en"		"mannhattan"
+	}
+	"l4d_hopegorgeecr"
+	{
+		"en"		"Tank Gorgeous"
+	}
+	"l4d_wheel_01_mallecr"
+	{
+		"en"		"The Mallitary"
+	}
+	"l4d_crstreetecr"
+	{
+		"en"		"Get Away From My Store"
+	}
+	"l4d_crgrapeecr"
+	{
+		"en"		"Still Get Away"
+	}
+	"l4d_crrivercityecr"
+	{
+		"en"		"Move on Drifters"
+	}
+	"farmecr"
+	{
+		"en"		"Why Won't You Die"
+	}
+	"slaughterecr"
+	{
+		"en"		"Theatre of the Dead"
+	}
+	"l4d_mic_finaleecrv2"
+	{
+		"en"		"The Mushrooms are Working"
+	}
+	"village_beta408"
+	{
+		"en"		"The Church Steeple"
+	}
+	"forest_beta407"
+	{
+		"en"		"Military Post"
+	}
+	"urban_beta408"
+	{
+		"en"		"Urban Zombie War"
+	}
+	"final_beta408"
+	{
+		"en"		"Seaside Village Finale"
+	}
+	"l4d_grave_city"
+	{
+		"en"		"Zombie Town USA"
+	}
+	"l4d_grave_mall_beta"
+	{
+		"en"		"Zombo Mall Shopping"
+	}
+	"l4d_grave_sewers_beta"
+	{
+		"en"		"Peanut Butter Sewer Time!"
+	}
+	"l4d_grave_factory_beta"
+	{
+		"en"		"Industrial Accident"
+	}
+	"l4d_grave_outside_beta"
+	{
+		"en"		"The Deadly Source"
+	}
+	"l4d_grave_rural"
+	{
+		"en"		"Huckleberry Time"
+	}
+	"l4d_grave_prison"
+	{
+		"en"		"Prison Break"
+	}
+	"l4d_grave_station"
+	{
+		"en"		"Riding Bessie"
+	}
+	"l4d_grave_mall"
+	{
+		"en"		"Retail Therapy VS"
+	}
+	"l4d_grave_sewers"
+	{
+		"en"		"Underground Adventures VS"
+	}
+	"l4d_grave_factory"
+	{
+		"en"		"Industrial Incident VS"
+	}
+	"l4d_grave_outside"
+	{
+		"en"		"The Source? VS"
+	}
+	"dry_county_1"
+	{
+		"en"		"Dry County Tracks"
+	}
+	"dry_county_2"
+	{
+		"en"		"Dry County Mine"
+	}
+	"dry_county_3"
+	{
+		"en"		"Dry County Town"
+	}
+	"dry_county_4"
+	{
+		"en"		"Dry County Finale"
+	}
+	"dry_county_survival_1"
+	{
+		"en"		"Mines Survival"
+	}
+	"dry_county_survival_2"
+	{
+		"en"		"Mines Survival - Grenade Launcher Only"
+	}
+	"dry_county_survival_3"
+	{
+		"en"		"Town Survival"
+	}
+	"l4d_dbde_citylights"
+	{
+		"en"		"Citylights"
+	}
+	"l4d_dbde_anna_is_gone"
+	{
+		"en"		"Anna Is Gone"
+	}
+	"l4d_dbde_the_mall"
+	{
+		"en"		"The Mall"
+	}
+	"l4d_dbdext_clean_up"
+	{
+		"en"		"Clean Up"
+	}
+	"l4d_dbdext_undead_center"
+	{
+		"en"		"Undead Center"
+	}
+	"l4d_dbdext_new_dawn"
+	{
+		"en"		"New Dawn"
+	}
+	"bdp_bunker01"
+	{
+		"en"		"1: Deeper Levels"
+	}
+	"bdp_bunker02"
+	{
+		"en"		"2: Old Tunnels"
+	}
+	"bdp_bunker03"
+	{
+		"en"		"3: Freight Elevator"
+	}
+	"bdp_bunker04"
+	{
+		"en"		"4: The Road"
+	}
+	"bdp_bunker05a"
+	{
+		"en"		"5: The Forest Garage"
+	}
+	"atc2m1_road"
+	{
+		"en"		"Night Road"
+	}
+	"atc2m2_orchard"
+	{
+		"en"		"Morning Orchard"
+	}
+	"atc2m3_motel"
+	{
+		"en"		"Seedy Motel"
+	}
+	"atc2m4_trailer"
+	{
+		"en"		"Trailer Park"
+	}
+	"atc2m5_carshow"
+	{
+		"en"		"Car Show"
+	}
+	"fosre01_maomaohill"
+	{
+		"en"		"maomaohill"
+	}
+	"fosre02_fftown"
+	{
+		"en"		"fftown"
+	}
+	"fosre03_factory"
+	{
+		"en"		"factory"
+	}
+	"fosre04_moors"
+	{
+		"en"		"moors"
+	}
+	"fosre05_92farm"
+	{
+		"en"		"92farm"
+	}
+	"l4d_zero01_south"
+	{
+		"en"		"1: South Haven"
+	}
+	"l4d_zero02_complex"
+	{
+		"en"		"2: Abandoned Complex"
+	}
+	"l4d_zero03_chasm"
+	{
+		"en"		"3: Chasm Ice Ruins"
+	}
+	"l4d_zero04_steppes"
+	{
+		"en"		"4: Temple Steppes"
+	}
+	"l4d_zero05_aerith"
+	{
+		"en"		"5: Aerith Rest"
+	}
+	"ec01_outlets"
+	{
+		"en"		"The Outlet Mall"
+	}
+	"ec02_dam"
+	{
+		"en"		"The Reservoir"
+	}
+	"ec03_village"
+	{
+		"en"		"The Village"
+	}
+	"ec04_powerstation"
+	{
+		"en"		"The Power Station"
+	}
+	"ec05_quarry"
+	{
+		"en"		"The Quarry"
+	}
+	"winter_chapter_1"
+	{
+		"en"		"Blue Helicopter"
+	}
+	"winter_map_2"
+	{
+		"en"		"TheTankCave"
+	}
+	"zima_map_3"
+	{
+		"en"		"Meet The Santa"
+	}
+	"l4d2_ff01_woods"
+	{
+		"en"		"1: The Woods"
+	}
+	"l4d2_ff02_factory"
+	{
+		"en"		"2: The Factory"
+	}
+	"l4d2_ff03_highway"
+	{
+		"en"		"3: The Highway"
+	}
+	"l4d2_ff04_plant"
+	{
+		"en"		"4: The Plant"
+	}
+	"l4d2_ff05_station"
+	{
+		"en"		"5: Trainyard Finale"
+	}
+	"desastre_2_1a_1b"
+	{
+		"en"		"1: Tranvias"
+	}
+	"desastre_1a"
+	{
+		"en"		"2: Laboratorio"
+	}
+	"desastre_t2_1a"
+	{
+		"en"		"3: Generadores"
+	}
+	"Desastre_T2_1b"
+	{
+		"en"		"4: Calles"
+	}
+	"desastre_t2_1c"
+	{
+		"en"		"5: Tormenta"
+	}
+	"desastre_t2_1d"
+	{
+		"en"		"6: Gran Ciudad"
+	}
+	"desastre_global"
+	{
+		"en"		"7: Estacion del tren"
+	}
+	"irrx001"
+	{
+		"en"		"The Apartments"
+	}
+	"irrx002"
+	{
+		"en"		"The Shoppes"
+	}
+	"irrx003"
+	{
+		"en"		"Innes Road"
+	}
+	"irrx004"
+	{
+		"en"		"PineView"
+	}
+	"irrx005"
+	{
+		"en"		"The Overpass"
+	}
+	"irrx006"
+	{
+		"en"		"GHS"
+	}
+	"mtlgth001"
+	{
+		"en"		"The Canal"
+	}
+	"mtlgth002"
+	{
+		"en"		"The Green Line"
+	}
+	"mtlgth003"
+	{
+		"en"		"Atwater"
+	}
+	"mtlgth004"
+	{
+		"en"		"Downtown"
+	}
+	"mtlgth005"
+	{
+		"en"		"Mount Royal"
+	}
+	"l4d_tbm_1"
+	{
+		"en"		"1: The Cottage"
+	}
+	"l4d_tbm_2"
+	{
+		"en"		"2: Acid House Party"
+	}
+	"l4d_tbm_3"
+	{
+		"en"		"3: 'Keep Off The Moors'"
+	}
+	"l4d_tbm_4"
+	{
+		"en"		"4: The Old Stag"
+	}
+	"l4d_tbm_5"
+	{
+		"en"		"5: Arthur's Supplies"
+	}
+	"nova_first"
+	{
+		"en"		"1. Cellblocks"
+	}
+	"nova_second"
+	{
+		"en"		"2. Showers"
+	}
+	"nova_third"
+	{
+		"en"		"3. Combine"
+	}
+	"nova_fourth"
+	{
+		"en"		"4. Cafeteria"
+	}
+	"nova_fifth"
+	{
+		"en"		"5. Basements"
+	}
+	"nova_sixth"
+	{
+		"en"		"6. Tunnels"
+	}
+	"nova_seventh"
+	{
+		"en"		"7. Teleporter"
+	}
+	"beginninghours_m1_shipbtc"
+	{
+		"en"		"Cargo Ship"
+	}
+	"beginninghours_m2_outpostbtc"
+	{
+		"en"		"Military Outpost"
+	}
+	"l4d_co_canalbtc"
+	{
+		"en"		"Crossing1"
+	}
+	"l4d_co_churchbtc"
+	{
+		"en"		"Crossing2"
+	}
+	"l4d_co_schoolbtc"
+	{
+		"en"		"Crossing3"
+	}
+	"l4d_co_granarybtc"
+	{
+		"en"		"Crossing4"
+	}
+	"l4d_co_bridgebtc"
+	{
+		"en"		"Crossing5"
+	}
+	"htm_m2"
+	{
+		"en"		"The Apartment"
+	}
+	"htm_m1"
+	{
+		"en"		"The Motel"
+	}
+	"t1_m1"
+	{
+		"en"		"Arrival"
+	}
+	"t2_m2"
+	{
+		"en"		"Hot spot"
+	}
+	"t3_m3"
+	{
+		"en"		"Searches"
+	}
+	"t4_m4"
+	{
+		"en"		"Closed secrets"
+	}
+	"xiaoqure"
+	{
+		"en"		"xiaoqu"
+	}
+	"xuexiaore"
+	{
+		"en"		"xuexiao"
+	}
+	"songbiere"
+	{
+		"en"		"songbie"
+	}
+	"lltyre"
+	{
+		"en"		"love letter to Yu"
+	}
+	"umd"
+	{
+		"en"		"Ultimate Mind Destruct"
+	}
+	"fitgers"
+	{
+		"en"		"Fitger's Wrath"
+	}
+	"l4duluth_skywalk_vs"
+	{
+		"en"		"Skywalker Hunting"
+	}
+	"canalpark"
+	{
+		"en"		"Le Canal Park"
+	}
+	"canalpark_survival"
+	{
+		"en"		"Canalpark Base-D!"
+	}
+	"quart"
+	{
+		"en"		"Streets"
+	}
+	"nuevocentro_ext"
+	{
+		"en"		"Mall Exterior"
+	}
+	"nuevocentro_int"
+	{
+		"en"		"Mall Interior"
+	}
+	"metro_vlc"
+	{
+		"en"		"Subway"
+	}
+	"metro_vlc_surv"
+	{
+		"en"		"Subway"
+	}
+	"citystreets1ewc"
+	{
+		"en"		"City Streets Carnage"
+	}
+	"techbuildingewc"
+	{
+		"en"		"Tech Building Chaos"
+	}
+	"museumewc"
+	{
+		"en"		"Night At The Museum"
+	}
+	"dodsurvivalcoopewc"
+	{
+		"en"		"The Tunnels"
+	}
+	"l4d2_martial_lawewc"
+	{
+		"en"		"Tankville USA"
+	}
+	"l4d2_helicopterescapeewc"
+	{
+		"en"		"Escape this Hell hole"
+	}
+	"l4d_cc1"
+	{
+		"en"		"1: The Prison"
+	}
+	"l4d_cc2"
+	{
+		"en"		"2: The Overgrown Facility"
+	}
+	"l4d_cc3"
+	{
+		"en"		"3: The Butcher's Game"
+	}
+	"l4d_cc4"
+	{
+		"en"		"4: The Brutal Outcome"
+	}
+	"l4d_cc5"
+	{
+		"en"		"5: The Source"
+	}
+	"l4d_cctf1"
+	{
+		"en"		"1: Forsaken"
+	}
+	"l4d_cctf2"
+	{
+		"en"		"2: New Hope"
+	}
+	"l4d_cctf3"
+	{
+		"en"		"3: Obstacles"
+	}
+	"l4d_cctf4"
+	{
+		"en"		"4: Lock-Down"
+	}
+	"l4d_cctf5"
+	{
+		"en"		"5: Freedom"
+	}
+	"l4d2_stadium1_apartment"
+	{
+		"en"		"The Apartment"
+	}
+	"l4d2_stadium2_riverwalk"
+	{
+		"en"		"The Riverwalk"
+	}
+	"l4d2_stadium3_city1"
+	{
+		"en"		"The Law"
+	}
+	"l4d2_stadium4_city2"
+	{
+		"en"		"The City"
+	}
+	"l4d2_stadium5_stadium"
+	{
+		"en"		"The Stadium"
+	}
+	"l4d2_vs_stadium2_riverwalk"
+	{
+		"en"		"The Riverwalk Versus"
+	}
+	"l4d2_sv_stadium2_riverwalk"
+	{
+		"en"		"The Riverwalk Survival"
+	}
+	"l4d2_sv_stadium3_city1"
+	{
+		"en"		"The Law Survival"
+	}
+	"l4d2_sv_stadium4_city2"
+	{
+		"en"		"The City Survival"
+	}
+	"splash6"
+	{
+		"en"		"Splash Mountain Freeride"
+	}
+	"atc3m1_highway"
+	{
+		"en"		"Highway"
+	}
+	"atc3m2_entrance"
+	{
+		"en"		"Park Entrance"
+	}
+	"atc3m3_funhouse"
+	{
+		"en"		"FUN House"
+	}
+	"atc3m4_glassmaze"
+	{
+		"en"		"Glass Maze"
+	}
+	"atc3m5_screamingoak"
+	{
+		"en"		"Screaming Oak Finale"
+	}
+	"upward"
+	{
+		"en"		"The Spiral"
+	}
+	"l4d2_ic01_forest"
+	{
+		"en"		"The Forest"
+	}
+	"l4d2_ic02_neighborhood"
+	{
+		"en"		"The Neighborhood"
+	}
+	"l4d2_ic03_city"
+	{
+		"en"		"The City"
+	}
+	"l4d2_ic04_mall"
+	{
+		"en"		"The Mall"
+	}
+	"l4d2_ic05_skyscraper"
+	{
+		"en"		"The Skyscraper"
+	}
+	"l4d2_ic06_rooftop"
+	{
+		"en"		"The Rooftop"
+	}
+	"l4d2_fallindeath01"
+	{
+		"en"		"Small Town"
+	}
+	"l4d2_fallindeath02"
+	{
+		"en"		"Forest"
+	}
+	"l4d2_fallindeath03"
+	{
+		"en"		"Mountain"
+	}
+	"l4d2_fallindeath04"
+	{
+		"en"		"Cablecar"
+	}
+	"l4d_auburn"
+	{
+		"en"		"Industrial Slums"
+	}
+	"l4d_auburn_2"
+	{
+		"en"		"South River Treatment Plant"
+	}
+	"l4d_auburn_3"
+	{
+		"en"		"Underground Insanity!"
+	}
+	"l4d_auburn_finale"
+	{
+		"en"		"Construction Site Finale"
+	}
+	"ld1dlc"
+	{
+		"en"		"1: Roadblocks"
+	}
+	"ld2dlc"
+	{
+		"en"		"2: Gas station"
+	}
+	"ld3dlc"
+	{
+		"en"		"3: Tourist attraction"
+	}
+	"ld4dlc"
+	{
+		"en"		"4: A father's paradise"
+	}
+	"ld5dlc"
+	{
+		"en"		"5: Military base"
+	}
+	"ld6dlc"
+	{
+		"en"		"6: Cliffside mansion"
+	}
+	"bt1"
+	{
+		"en"		"The Suburbs"
+	}
+	"bt2"
+	{
+		"en"		"Hospital Rendezvous"
+	}
+	"bt3"
+	{
+		"en"		"Shopping With The Dead"
+	}
+	"bt4"
+	{
+		"en"		"City"
+	}
+	"bt5"
+	{
+		"en"		"New Dawn"
+	}
+	"Egypt"
+	{
+		"en"		"village"
+	}
+	"Egypt22"
+	{
+		"en"		"city"
+	}
+	"Egypt3"
+	{
+		"en"		"tomb"
+	}
+	"egypt4finale"
+	{
+		"en"		"Artifact"
+	}
+	"l4d_deadline01"
+	{
+		"en"		"Deadline 1"
+	}
+	"l4d_deadline02"
+	{
+		"en"		"Deadline 2"
+	}
+	"l4d_lastnight01_arrival"
+	{
+		"en"		"Arrival"
+	}
+	"l4d_lastnight02_policestation"
+	{
+		"en"		"Police Station"
+	}
+	"l4d_lastnight03_crash"
+	{
+		"en"		"Big Crash"
+	}
+	"l4d_lastnight04_haarp"
+	{
+		"en"		"Haarpyland"
+	}
+	"l4d_lastnight05_femacamp"
+	{
+		"en"		"Fema Camp"
+	}
+	"l4d_lastnight06_ravenrock"
+	{
+		"en"		"Raven Rockers"
+	}
+	"l4d_lastnight07_mineshaft"
+	{
+		"en"		"The Mineshaft"
+	}
+	"dc2m1_riverside"
+	{
+		"en"		"1. RiverSide City"
+	}
+	"dc2m2_backalley"
+	{
+		"en"		"2. Back Alley"
+	}
+	"dc2m3_bridge"
+	{
+		"en"		"3. Draw Bridge"
+	}
+	"dc2m4_outpost"
+	{
+		"en"		"4. The Outpost"
+	}
+	"dc2m5_plant"
+	{
+		"en"		"5. Water Plant"
+	}
+	"dc2m6_station"
+	{
+		"en"		"6. Subway Station"
+	}
+	"c1m1_outerbayous_a"
+	{
+		"en"		"1: Wetlands"
+	}
+	"c1m2_brackishintermediate_a"
+	{
+		"en"		"2: Deep Swamp"
+	}
+	"c1m3_squallline_a"
+	{
+		"en"		"3: Flood Plains"
+	}
+	"c1m4_plantation_a"
+	{
+		"en"		"4: Shanty Town"
+	}
+	"c1m5_interstate_10"
+	{
+		"en"		"5: Bucee's"
+	}
+	"Backriders"
+	{
+		"en"		"Backriders"
+	}
+	"Helis_and_Humpers"
+	{
+		"en"		"Helis_and_Humpers"
+	}
+	"Dosey_Doe"
+	{
+		"en"		"Dosey_Doe"
+	}
+	"No_More_Humpers"
+	{
+		"en"		"No_More_Humpers"
+	}
+	"btm1_snakeroad"
+	{
+		"en"		"1. Snake Road"
+	}
+	"btm2_lakeside"
+	{
+		"en"		"2. Lake Side"
+	}
+	"btm3_shipyard"
+	{
+		"en"		"3. Ship Yard"
+	}
+	"l4d2_feetunder_outpostacbe"
+	{
+		"en"		"Outpost"
+	}
+	"l4d_hopedb_gorge01cbe"
+	{
+		"en"		"The Gorge"
+	}
+	"l4d_coaldblood01cbe"
+	{
+		"en"		"The Steam Vent"
+	}
+	"l4d_tunnels_entrancecbe"
+	{
+		"en"		"The Entrance"
+	}
+	"l4d_tunnels_cavescbe"
+	{
+		"en"		"The Caves"
+	}
+	"l4d_coaldblood02cbe"
+	{
+		"en"		"The Crevace"
+	}
+	"l4d_coaldblood03cbe"
+	{
+		"en"		"The Elevator"
+	}
+	"l4d_coaldblood04cbe"
+	{
+		"en"		"The Cliff Rescue"
+	}
+	"l4d_coaldBlood04sv"
+	{
+		"en"		"The Cliff Rescue"
+	}
+	"l4d_coaldBlood04cbe_vs"
+	{
+		"en"		"The Cliff Rescue"
+	}
+	"zm_rush_01"
+	{
+		"en"		"World Of Stone"
+	}
+	"zm_rush_02"
+	{
+		"en"		"Castle"
+	}
+	"e3m1_phobosanomaly"
+	{
+		"en"		"1: Phobos Anomaly"
+	}
+	"e3m2_rotenacht"
+	{
+		"en"		"2: Rote Nacht"
+	}
+	"e3m3_descent"
+	{
+		"en"		"3: Descent"
+	}
+	"e3m4_intothenothing"
+	{
+		"en"		"4: Into the Nothing"
+	}
+	"e3m5_templeofmalevolence"
+	{
+		"en"		"5: Temple of Malevolence"
+	}
+	"e3m6_tombofmalphas"
+	{
+		"en"		"6: Tomb of Malphas"
+	}
+	"e3m7_obelisk"
+	{
+		"en"		"7: Obelisk"
+	}
+	"l4d2_coaldblood01nsz"
+	{
+		"en"		"The Steam Vent"
+	}
+	"l4d2_coaldblood02nsz"
+	{
+		"en"		"The Cliff"
+	}
+	"l4d2_coaldblood03nsz"
+	{
+		"en"		"Loading Docks"
+	}
+	"l4d2_coaldblood04nsz"
+	{
+		"en"		"The Facility"
+	}
+	"l4d2_coaldblood05nsz"
+	{
+		"en"		"The Pump Room"
+	}
+	"l4d2_coaldblood06modnsz"
+	{
+		"en"		"Shuttle Finale"
+	}
+	"l4d2_eft1-2_towernneftmoda"
+	{
+		"en"		"Towering In Fear No"
+	}
+	"l4d2_eft3_queensquaynneft"
+	{
+		"en"		"Queens Quay"
+	}
+	"l4d2_eft4_drybaynneft"
+	{
+		"en"		"The Dried Up Bay"
+	}
+	"l4d2_eft5_niagaracitynneft"
+	{
+		"en"		"City of the Falls"
+	}
+	"l4d2_eft6_bordercrossing1nneft"
+	{
+		"en"		"Bordercrossing Finale"
+	}
+	"l4d2_eft1-2_towernneftmod"
+	{
+		"en"		"Subsystem Versus"
+	}
+	"l4d_stadium1_apartment"
+	{
+		"en"		"1: The Apartment"
+	}
+	"l4d_stadium2_underground"
+	{
+		"en"		"2: The Underground"
+	}
+	"l4d_stadium3_city1"
+	{
+		"en"		"3: The Law"
+	}
+	"l4d_stadium4_city2"
+	{
+		"en"		"4: The City"
+	}
+	"l4d_stadium5_stadium"
+	{
+		"en"		"5: Stadium Finale"
+	}
+	"l4d_vs_stadium1_apartment"
+	{
+		"en"		"1: The Apartment Versus"
+	}
+	"l4d_vs_stadium2_underground"
+	{
+		"en"		"2: The Underground Versus"
+	}
+	"l4d_vs_stadium3_city1"
+	{
+		"en"		"3: The Law Versus"
+	}
+	"l4d_vs_stadium4_city2"
+	{
+		"en"		"4: The City Versus"
+	}
+	"l4d_vs_stadium5_stadium"
+	{
+		"en"		"5: Stadium Finale Versus"
+	}
+	"l4d_sv_stadium2_underground"
+	{
+		"en"		"Underground Survival"
+	}
+	"l4d_sv_stadium3_city1"
+	{
+		"en"		"The Law Survival"
+	}
+	"l4d_sv_stadium4_city2"
+	{
+		"en"		"The City Survival"
+	}
+	"sd01_airfield"
+	{
+		"en"		"1: The Underpass"
+	}
+	"sd02_thedusk"
+	{
+		"en"		"2: The Old Town"
+	}
+	"sd03_themines"
+	{
+		"en"		"3: The Mines"
+	}
+	"sd04_apcescape"
+	{
+		"en"		"4: The Harbor"
+	}
+	"neon_prime_01"
+	{
+		"en"		"Metro 2069"
+	}
+	"neon_prime_02"
+	{
+		"en"		"Cyber Oasis"
+	}
+	"neon_prime_02b"
+	{
+		"en"		"The Grid"
+	}
+	"neon_prime_03"
+	{
+		"en"		"Outrun"
+	}
+	"c5a1"
+	{
+		"en"		"Danger Zone"
+	}
+	"c5a2"
+	{
+		"en"		"Low Light"
+	}
+	"c5a3"
+	{
+		"en"		"Blast Pit"
+	}
+	"c5a4"
+	{
+		"en"		"Surface Tension"
+	}
+	"c5a5"
+	{
+		"en"		"Fallouts"
+	}
+	"qe3_1"
+	{
+		"en"		"Great Reset"
+	}
+	"qe3_2"
+	{
+		"en"		"Illusion of Choice"
+	}
+	"qe3_3"
+	{
+		"en"		"Build Back Better"
+	}
+	"qe3_4"
+	{
+		"en"		"The Problem is Choice"
+	}
+	"qe3_5"
+	{
+		"en"		"Everything That Has a Beginning Has an End"
+	}
+	"threedays01"
+	{
+		"en"		"十年之境"
+	}
+	"threedays02"
+	{
+		"en"		"昨日惊现"
+	}
+	"threedays03"
+	{
+		"en"		"忆往昔途"
+	}
+	"threedays04"
+	{
+		"en"		"镇魂之声"
+	}
+	"threedays05"
+	{
+		"en"		"殊途同归"
+	}
+	"l4d2_sdr1"
+	{
+		"en"		"Street"
+	}
+	"l4d2_sdr2"
+	{
+		"en"		"Park"
+	}
+	"l4d2_sdr3"
+	{
+		"en"		"Subway"
+	}
+	"l4d2_7hours_later_01"
+	{
+		"en"		"1) Forest"
+	}
+	"l4d2_7hours_later_02"
+	{
+		"en"		"2) Bridge"
+	}
+	"l4d2_7hours_later_03"
+	{
+		"en"		"3) Forest highway"
+	}
+	"l4d2_7hours_later_04"
+	{
+		"en"		"4) Factory"
+	}
+	"l4d2_7hours_later_05"
+	{
+		"en"		"5) Forest airport"
+	}
+	"l4d2_tanksplayground_surv_2_8"
+	{
+		"en"		"Tower survival"
+	}
+	"l4d2_tanksplayground_night"
+	{
+		"en"		"Versus By Night"
+	}
+	"lego_town_01"
+	{
+		"en"		"Town"
+	}
+	"lego_tunnels_02"
+	{
+		"en"		"Tunnels"
+	}
+	"lego_wastelands_03"
+	{
+		"en"		"Wastelands"
+	}
+	"lego_urban_04"
+	{
+		"en"		"City"
+	}
+	"lego_towerfinale_05"
+	{
+		"en"		"Tower"
+	}
+	"atsm1_factory"
+	{
+		"en"		"factory"
+	}
+	"atsm2_bridge"
+	{
+		"en"		"bridge"
+	}
+	"atsm3_sewer"
+	{
+		"en"		"sewer"
+	}
+	"atsm4_riverside"
+	{
+		"en"		"riverside"
+	}
+	"l4d2_wanli01"
+	{
+		"en"		"Great Plane"
+	}
+	"l4d2_wanli02"
+	{
+		"en"		"Great Wall"
+	}
+	"l4d2_wanli03"
+	{
+		"en"		"Great Ice"
+	}
+	"l4d_almacen001_almacenext"
+	{
+		"en"		"Warehouse"
+	}
+	"l4d_almacen002_caminoext"
+	{
+		"en"		"The Industrial Area"
+	}
+	"l4d_almacen003_waterworksext"
+	{
+		"en"		"The Drainage"
+	}
+	"l4d_almacen004_arbolesext"
+	{
+		"en"		"The Woods"
+	}
+	"l4d2_tgtn02_northaveext"
+	{
+		"en"		"North Zombie Ave."
+	}
+	"l4d2_tgtn01_fridayroadext"
+	{
+		"en"		"Apocalypse Rd."
+	}
+	"sn_m1"
+	{
+		"en"		"1:港口"
+	}
+	"sn_m2"
+	{
+		"en"		"2:The Wave Hotel"
+	}
+	"sn_m3"
+	{
+		"en"		"3:CEDA接管区"
+	}
+	"sn_m4"
+	{
+		"en"		"4:返回旅馆"
+	}
+	"sn_m5GE"
+	{
+		"en"		"5G:音乐会"
+	}
+	"sn_m5BE"
+	{
+		"en"		"5B:屋顶"
+	}
+	"grave_yard"
+	{
+		"en"		"Grave Yard"
+	}
+	"grave_discovery"
+	{
+		"en"		"Grave Discovery"
+	}
+	"grave_finale"
+	{
+		"en"		"Grave Consequences"
+	}
+	"grave_yard_survival"
+	{
+		"en"		"Grave Yard - Survival"
+	}
+	"grave_finale_survival"
+	{
+		"en"		"Grave Consequences - Survival"
+	}
+	"unsdwn_mp_1"
+	{
+		"en"		"City"
+	}
+	"unsdwn_mp_2"
+	{
+		"en"		"Office"
+	}
+	"unsdwn_mp_3"
+	{
+		"en"		"Hotel"
+	}
+	"unsdwn_mp_4"
+	{
+		"en"		"Arena"
+	}
+	"cbe_office_l4d"
+	{
+		"en"		"office"
+	}
+	"cbe_trainstation_l4d"
+	{
+		"en"		"trainstation"
+	}
+	"cbe_bunker_l4d"
+	{
+		"en"		"bunker"
+	}
+	"cbe_flatline_l4d"
+	{
+		"en"		"flatline"
+	}
+	"cbe_cityblock_l4d"
+	{
+		"en"		"cityblock"
+	}
+	"qe_1_cliche"
+	{
+		"en"		"Cliche"
+	}
+	"qe_2_remember_me"
+	{
+		"en"		"Remember me"
+	}
+	"qe_3_unorthodox_paradox"
+	{
+		"en"		"Unorthodox Paradox"
+	}
+	"qe_4_ultimate_test"
+	{
+		"en"		"The Ultimate Test"
+	}
+	"quethics_1"
+	{
+		"en"		"Cliche"
+	}
+	"quethics_2"
+	{
+		"en"		"Remember me (1)"
+	}
+	"quethics_3"
+	{
+		"en"		"Remember me (2)"
+	}
+	"quethics_4"
+	{
+		"en"		"Unorthodox Paradox (1)"
+	}
+	"quethics_5"
+	{
+		"en"		"Unorthodox Paradox (2)"
+	}
+	"quethics_6"
+	{
+		"en"		"Ultimate Test"
+	}
+	"innards2_map1"
+	{
+		"en"		"innards2_map1"
+	}
+	"innards2_map2"
+	{
+		"en"		"innards2_map2"
+	}
+	"innards2_map3"
+	{
+		"en"		"innards2_map3"
+	}
+	"innards2_map4"
+	{
+		"en"		"innards2_map4"
+	}
+	"innards2_map5"
+	{
+		"en"		"innards2_map5"
+	}
+	"SMA_map1"
+	{
+		"en"		"SMA_map1"
+	}
+	"SMA_map2"
+	{
+		"en"		"SMA_map2"
+	}
+	"SMA_map3"
+	{
+		"en"		"SMA_map3"
+	}
+	"SMA_map4"
+	{
+		"en"		"SMA_map4"
+	}
+	"SMA_map5"
+	{
+		"en"		"SMA_map5"
+	}
+	"SMA_map6"
+	{
+		"en"		"SMA_map6"
+	}
+	"msd1_town"
+	{
+		"en"		"Town"
+	}
+	"msd2_gasstation"
+	{
+		"en"		"GasStation"
+	}
+	"msdnew_tccity_newway"
+	{
+		"en"		"City"
+	}
+	"msd3_square"
+	{
+		"en"		"Square"
+	}
+	"northpole01"
+	{
+		"en"		"Tunnels"
+	}
+	"northpole02"
+	{
+		"en"		"Facility"
+	}
+	"northpole03"
+	{
+		"en"		"South Research Site"
+	}
+	"mrr_01_darkforest"
+	{
+		"en"		"Dark Forest"
+	}
+	"mrr_02_schoolsout"
+	{
+		"en"		"Schools Out"
+	}
+	"mrr_03_alleys"
+	{
+		"en"		"Alleys"
+	}
+	"mrr_04_stationfinale"
+	{
+		"en"		"Station Finale"
+	}
+	"l4d_fallen01_approach"
+	{
+		"en"		"Approach"
+	}
+	"l4d_fallen02_trenches"
+	{
+		"en"		"Trenches"
+	}
+	"l4d_fallen03_tower"
+	{
+		"en"		"Tower"
+	}
+	"l4d_fallen04_cliff"
+	{
+		"en"		"Cliff"
+	}
+	"l4d_fallen05_shaft"
+	{
+		"en"		"Shaft"
+	}
+	"tankypoos_map1"
+	{
+		"en"		"tankypoos_map1"
+	}
+	"tankypoos_map2"
+	{
+		"en"		"tankypoos_map2"
+	}
+	"tankypoos_map3"
+	{
+		"en"		"tankypoos_map3"
+	}
+	"tankypoos_map4"
+	{
+		"en"		"tankypoos_map4"
+	}
+	"tankypoos_map5"
+	{
+		"en"		"tankypoos_map5"
+	}
+	"tankypoos_map6"
+	{
+		"en"		"tankypoos_map6"
+	}
+	"Gasometer"
+	{
+		"en"		"Gasometer"
+	}
+	"Centro"
+	{
+		"en"		"Centro"
+	}
+	"Centro_Final"
+	{
+		"en"		"Final"
+	}
+	"l4d2_cc_street_d"
+	{
+		"en"		"Streets Of Fire"
+	}
+	"l4d2_cc_basement_c"
+	{
+		"en"		"Basement Terror"
+	}
+	"l4d2_cc_ascent_a"
+	{
+		"en"		"Sugarhill Zombos"
+	}
+	"l4d2_cc_hotel"
+	{
+		"en"		"Hotel, Motel, Holiday Inn"
+	}
+	"l4d2_cc_station-a"
+	{
+		"en"		"Zombie Train Station"
+	}
+	"l4d2_cc_finale"
+	{
+		"en"		"Rooftop Escape"
+	}
+	"uf1_boulevard"
+	{
+		"en"		"1: Boulevard"
+	}
+	"uf2_rooftops"
+	{
+		"en"		"2: Rooftops"
+	}
+	"uf3_harbor"
+	{
+		"en"		"3: Harbor"
+	}
+	"uf4_airfield"
+	{
+		"en"		"4: Airfield"
+	}
+	"l4d2_cc_stranded"
+	{
+		"en"		"Stranded"
+	}
+	"l4d2_cc_sampling"
+	{
+		"en"		"Sampling"
+	}
+	"l4d2_cc_gauntlet"
+	{
+		"en"		"Gauntlet"
+	}
+	"l4d2_cc_tower"
+	{
+		"en"		"Tower"
+	}
+	"l4d2_cc_ai"
+	{
+		"en"		"AI"
+	}
+	"l4d2_cc_escape"
+	{
+		"en"		"Escape"
+	}
+	"l4d2_cc_escape_sr"
+	{
+		"en"		"No Escape"
+	}
+	"l4d_alien_plague_01"
+	{
+		"en"		"The Maze"
+	}
+	"l4d_alien_plague_02"
+	{
+		"en"		"The Palace"
+	}
+	"l4d_damitsv_freighter"
+	{
+		"en"		"Coal Freighter"
+	}
+	"l4d_damitsv_highrise"
+	{
+		"en"		"Highrise"
+	}
+	"damitdc1"
+	{
+		"en"		"Approach"
+	}
+	"damitdc2"
+	{
+		"en"		"Waterside"
+	}
+	"damitdc3"
+	{
+		"en"		"Compound"
+	}
+	"damitdc4"
+	{
+		"en"		"Hindsight"
+	}
+	"hcw1_aircrash"
+	{
+		"en"		"1: AirCrash"
+	}
+	"hcw2_rivermotel"
+	{
+		"en"		"2: RiverMotel"
+	}
+	"hcw3_outskirts"
+	{
+		"en"		"3: OutSkirts"
+	}
+	"hcw4_cityhall"
+	{
+		"en"		"4: CityHall"
+	}
+	"hcw5_bombshelter"
+	{
+		"en"		"5: BombShelter"
+	}
+	"mxd01"
+	{
+		"en"		"mxd01"
+	}
+	"mxd02"
+	{
+		"en"		"mxd02"
+	}
+	"mxd03"
+	{
+		"en"		"mxd03"
+	}
+	"mxd04"
+	{
+		"en"		"mxd04"
+	}
+	"mxd05"
+	{
+		"en"		"mxd05"
+	}
+	"mxd06"
+	{
+		"en"		"mxd06"
+	}
+	"mxd07"
+	{
+		"en"		"mxd07"
+	}
+	"l4d2_base_east"
+	{
+		"en"		"Base East"
+	}
+	"l4d2_base_south"
+	{
+		"en"		"Base South"
+	}
+	"l4d2_base_hunter_inn"
+	{
+		"en"		"The Hunter Inn"
+	}
+	"l4d2_base_escape"
+	{
+		"en"		"The Escape"
+	}
+	"ch_map1_city"
+	{
+		"en"		"The City"
+	}
+	"ch_map2_temple"
+	{
+		"en"		"The Temple"
+	}
+	"ch_map3_greatwall"
+	{
+		"en"		"The Great Wall"
+	}
+	"l4d_RoadToNowhere_Route3"
+	{
+		"en"		"1. Route 3"
+	}
+	"l4d_RoadToNowhere_Forest"
+	{
+		"en"		"2. Forest"
+	}
+	"l4d_RoadToNowhere_Tunnels"
+	{
+		"en"		"3. Tunnels"
+	}
+	"l4d_RoadToNowhere_Bridge"
+	{
+		"en"		"4. Bridge"
+	}
+	"l4d_RoadToNowhere_Escape"
+	{
+		"en"		"5. Escape"
+	}
+	"shopcenter"
+	{
+		"en"		"The Shopping Center"
+	}
+	"streets"
+	{
+		"en"		"Dead Streets"
+	}
+	"centralsquare"
+	{
+		"en"		"Central Square"
+	}
+	"urban"
+	{
+		"en"		"Death in the City"
+	}
+	"school"
+	{
+		"en"		"Back To School"
+	}
+	"TheDeathOfTheJourney"
+	{
+		"en"		"TheDeathOfTheJourney"
+	}
+	"l4d_brain4dead01_suburbs_b2"
+	{
+		"en"		"1: The Suburbs"
+	}
+	"l4d_brain4dead02_pool_b1"
+	{
+		"en"		"2: The Pool"
+	}
+	"l4d_brain4dead03_xxx"
+	{
+		"en"		"3: Ville"
+	}
+	"l4d_brain4dead04_gare"
+	{
+		"en"		"4: Gare"
+	}
+	"l4d_brain4dead05_maxim"
+	{
+		"en"		"5: Maxim"
+	}
+	"route_to_city_vs1"
+	{
+		"en"		"Journey To The City"
+	}
+	"the_city"
+	{
+		"en"		"Hunting In The City"
+	}
+	"prison2"
+	{
+		"en"		"Prison Time"
+	}
+	"trainstation21"
+	{
+		"en"		"2 houses, 1 train!"
+	}
+	"l4d2_sbtd_01"
+	{
+		"en"		"1) The streets"
+	}
+	"l4d2_sbtd_02"
+	{
+		"en"		"2) The car showroom"
+	}
+	"l4d2_sbtd_03"
+	{
+		"en"		"3) The boat escape"
+	}
+	"l4d2_deathcorridors01"
+	{
+		"en"		"Office"
+	}
+	"l4d2_deathcorridors02"
+	{
+		"en"		"Subway"
+	}
+	"l4d2_deathcorridors03"
+	{
+		"en"		"Sewage"
+	}
+	"l4d2_timemachine_01"
+	{
+		"en"		"1: Mountain Lab"
+	}
+	"l4d2_timemachine_02"
+	{
+		"en"		"2: First Paradox"
+	}
+	"l4d2_timemachine_03"
+	{
+		"en"		"3: Second Paradox"
+	}
+	"l4d2_timemachine_04"
+	{
+		"en"		"4: Townhouse Finale"
+	}
+	"dune_01"
+	{
+		"en"		"Path of Exile"
+	}
+	"dune_02"
+	{
+		"en"		"The Otherside"
+	}
+	"dune_03"
+	{
+		"en"		"Ash to Ashes"
+	}
+	"dune_04"
+	{
+		"en"		"Hall of Pain"
+	}
+	"dune_05"
+	{
+		"en"		"Road to Paradise"
+	}
+	"rmstitanic_m1"
+	{
+		"en"		"Tank Top"
+	}
+	"rmstitanic_m2"
+	{
+		"en"		"Scotland Road"
+	}
+	"rmstitanic_m3"
+	{
+		"en"		"First Class"
+	}
+	"rmstitanic_m4"
+	{
+		"en"		"Lifeboat Escape"
+	}
+	"rmstitanic_s1"
+	{
+		"en"		"Boatdeck Survival (Day)"
+	}
+	"l4d_naniwa01_shoppingmall"
+	{
+		"en"		"Valley Girl Mall"
+	}
+	"l4d_naniwa02_arcade"
+	{
+		"en"		"Death Arcade"
+	}
+	"l4d_naniwa03_highway"
+	{
+		"en"		"Death Is A Highway"
+	}
+	"l4d_naniwa04_subway"
+	{
+		"en"		"Dying To Subway"
+	}
+	"l4d_naniwa05_tower"
+	{
+		"en"		"The Tower Escape"
+	}
+	"ttc_m1_college"
+	{
+		"en"		"1:学院大厦"
+	}
+	"ttc_m2_roof"
+	{
+		"en"		"2:城市楼顶"
+	}
+	"ttc_m3_mall"
+	{
+		"en"		"3:购物中心"
+	}
+	"tropic_01"
+	{
+		"en"		"Crash Coast"
+	}
+	"tropic_02"
+	{
+		"en"		"Dead Water"
+	}
+	"tropic_03"
+	{
+		"en"		"Shoreline Overpass"
+	}
+	"tropic_04"
+	{
+		"en"		"Coastal Run"
+	}
+	"l4d_noe1"
+	{
+		"en"		"Military Base"
+	}
+	"l4d_noe2"
+	{
+		"en"		"Secret Facility"
+	}
+	"l4d_noe3"
+	{
+		"en"		"Fiddler On The Rooftop Finale"
+	}
+	"cedafever_m1"
+	{
+		"en"		"Streets"
+	}
+	"cedafever_m2"
+	{
+		"en"		"Downtown"
+	}
+	"cedafever_m3"
+	{
+		"en"		"CEDA Center"
+	}
+	"rtf_train"
+	{
+		"en"		"Easy Rider"
+	}
+	"getout"
+	{
+		"en"		"Getout"
+	}
+	"froset"
+	{
+		"en"		"Froset"
+	}
+	"themine"
+	{
+		"en"		"TheMine"
+	}
+	"almostsafe"
+	{
+		"en"		"AlmostSafe"
+	}
+	"timetogo"
+	{
+		"en"		"LeavingHome-5"
+	}
+	"gunk_misty"
+	{
+		"en"		"misty"
+	}
+	"gunk_occupied"
+	{
+		"en"		"occupied"
+	}
+	"gunk_stinkin_thinkin"
+	{
+		"en"		"stinkin_thinkin"
+	}
+	"gunk_stinky_bombs"
+	{
+		"en"		"stinky_bombs"
+	}
+	"gunk_on_the_wagon"
+	{
+		"en"		"on_the_wagon"
+	}
+	"gunk_wicked_dead"
+	{
+		"en"		"wicked_dead"
+	}
+	"l4d_sc_market"
+	{
+		"en"		"1: Jays Mini-Mart"
+	}
+	"l4d_sc_construction"
+	{
+		"en"		"2: Construction Site"
+	}
+	"l4d_sc_warehouse"
+	{
+		"en"		"3: Sortation Warehouse"
+	}
+	"left4cake201_start"
+	{
+		"en"		"Therapy"
+	}
+	"left4cake202_dos"
+	{
+		"en"		"Training"
+	}
+	"left4cake203_tres"
+	{
+		"en"		"Exercises"
+	}
+	"left4cake201_start_scavenge"
+	{
+		"en"		"Therapy Scavenge"
+	}
+	"left4cake202_dos_scavenge"
+	{
+		"en"		"Training Scavenge"
+	}
+	"left4cake203_tres_scavenge"
+	{
+		"en"		"Exercises Scavenge"
+	}
+	"las"
+	{
+		"en"		"The Big House"
+	}
+	"magazyn"
+	{
+		"en"		"Railway Warehouse"
+	}
+	"most"
+	{
+		"en"		"Underground Killzone"
+	}
+	"farma"
+	{
+		"en"		"Farm Fury"
+	}
+	"tunele"
+	{
+		"en"		"The Tunnels"
+	}
+	"lotnisko"
+	{
+		"en"		"Airport Escape"
+	}
+	"l4d_coaldblood01ol4d2"
+	{
+		"en"		"The Steam Vent"
+	}
+	"l4d_coaldblood02ol4d2"
+	{
+		"en"		"The Crevace"
+	}
+	"l4d_coaldblood03ol4d2"
+	{
+		"en"		"Elevator Hunting"
+	}
+	"l4d_coaldBlood04ol4d2"
+	{
+		"en"		"Cliff Top Rescue"
+	}
+	"av_cap1_posta"
+	{
+		"en"		"Comienzo en la posta"
+	}
+	"av_cap2_cancha"
+	{
+		"en"		"Paseo por la cancha"
+	}
+	"av_cap3_mercado"
+	{
+		"en"		"defensa en el mercado"
+	}
+	"av_cap4_avenida"
+	{
+		"en"		"Escape de la avenida"
+	}
+	"av_cap5_colegio"
+	{
+		"en"		"Cl�max en el colegio"
+	}
+	"av_bus_parque"
+	{
+		"en"		"parque"
+	}
+	"redtide_01_alleyways"
+	{
+		"en"		"Alleyways"
+	}
+	"redtide_02_condo"
+	{
+		"en"		"Condo"
+	}
+	"redtide_03_carshow"
+	{
+		"en"		"Car Show"
+	}
+	"redtide_04_retirementhome"
+	{
+		"en"		"Retirement Home"
+	}
+	"redtide_05_beachfront"
+	{
+		"en"		"Beachfront Finale"
+	}
+	"rw_beach1"
+	{
+		"en"		"1: The Long Road"
+	}
+	"rw_bridge2"
+	{
+		"en"		"2: The Bridge"
+	}
+	"rw_city3"
+	{
+		"en"		"3: The City"
+	}
+	"rw_artdeco4"
+	{
+		"en"		"4: The Main Avenue"
+	}
+	"rw_mansion5"
+	{
+		"en"		"5: The Mansion"
+	}
+	"dineva_underscore"
+	{
+		"en"		"Light Jungle"
+	}
+	"dineva_sandless"
+	{
+		"en"		"Strange ???"
+	}
+	"dineva_end"
+	{
+		"en"		"Depot"
+	}
+	"lost_map1"
+	{
+		"en"		"The Lost"
+	}
+	"lost_map2"
+	{
+		"en"		"The Mist"
+	}
+	"lost_map3"
+	{
+		"en"		"The Damned"
+	}
+	"lost_map4"
+	{
+		"en"		"The End"
+	}
+	"st1_city"
+	{
+		"en"		"st1_city"
+	}
+	"st2_base"
+	{
+		"en"		"st2_base"
+	}
+	"st3_lab"
+	{
+		"en"		"st3_lab"
+	}
+	"st4_oilrig"
+	{
+		"en"		"st4_oilrig"
+	}
+	"st5_final"
+	{
+		"en"		"st5_final"
+	}
+	"efcy_m1"
+	{
+		"en"		"1: Escape"
+	}
+	"efcy_m2"
+	{
+		"en"		"2: Castle Keep"
+	}
+	"efcy_m3"
+	{
+		"en"		"3: Tram Ride"
+	}
+	"efcy_m4"
+	{
+		"en"		"4: Down Town"
+	}
+	"efcy_m5"
+	{
+		"en"		"5: The Tomb"
+	}
+	"efcy_m6"
+	{
+		"en"		"6: Deep In The Ruins"
+	}
+	"efcy_m7"
+	{
+		"en"		"7: Run From The Ruins"
+	}
+	"efcy_m1_s"
+	{
+		"en"		"1: Escape"
+	}
+	"efcy_m3_s"
+	{
+		"en"		"3: Tram Ride"
+	}
+	"efcy_m4_scavenge"
+	{
+		"en"		"Cemetery"
+	}
+	"awaystadium_c1"
+	{
+		"en"		"Dockside Warehouse"
+	}
+	"awaystadium_c2"
+	{
+		"en"		"Underground Sewers"
+	}
+	"awaystadium_c3"
+	{
+		"en"		"Underground Maze"
+	}
+	"hotarubi_map1"
+	{
+		"en"		"The Labyrinth"
+	}
+	"hotarubi_map2"
+	{
+		"en"		"Go To Ground"
+	}
+	"hotarubi_map3"
+	{
+		"en"		"In Ruins..."
+	}
+	"rh_map01"
+	{
+		"en"		"1: The Train Yard"
+	}
+	"rh_map02"
+	{
+		"en"		"2: The Ash Township"
+	}
+	"rh_map03"
+	{
+		"en"		"3: Ash Highway"
+	}
+	"rh_map04"
+	{
+		"en"		"4: Ash Border Cross"
+	}
+	"rh_map05"
+	{
+		"en"		"5: Ash Mountain Summit"
+	}
+	"map2"
+	{
+		"en"		"Undecided"
+	}
+	"helipad"
+	{
+		"en"		"Ceda Evac Center"
+	}
+	"farmwar"
+	{
+		"en"		"farmwar"
+	}
+	"boomerfactory"
+	{
+		"en"		"boomerfactory"
+	}
+	"armorfactory"
+	{
+		"en"		"armorfactory"
+	}
+	"tankfactory"
+	{
+		"en"		"tankfactory"
+	}
+	"headquarters"
+	{
+		"en"		"headquarters"
+	}
+	"zerowarn_1r"
+	{
+		"en"		"1: Riverside Park"
+	}
+	"zerowarn_2r"
+	{
+		"en"		"2: A Cold, Wet Night"
+	}
+	"zerowarn_3r"
+	{
+		"en"		"3: The Last Morning Hike"
+	}
+	"C1_mario1_1"
+	{
+		"en"		"World 1-1"
+	}
+	"C1_mario1_2"
+	{
+		"en"		"World 1-2"
+	}
+	"C1_mario1_3"
+	{
+		"en"		"World 1-3 & 1-4"
+	}
+	"C1_mario1_4"
+	{
+		"en"		"Finale"
+	}
+	"bmist_m1way_vs"
+	{
+		"en"		"1:开端"
+	}
+	"bmist_m2under_vs"
+	{
+		"en"		"2:地下"
+	}
+	"bmist_m3building_vs"
+	{
+		"en"		"3:小镇"
+	}
+	"bmist_m4rescue_vs1"
+	{
+		"en"		"4:逃脱"
+	}
+	"l4d2_freezing_dc_01"
+	{
+		"en"		"1: Below Zero"
+	}
+	"l4d2_freezing_dc_02"
+	{
+		"en"		"2: Old Mansion"
+	}
+	"l4d2_freezing_dc_03"
+	{
+		"en"		"3: The Complex"
+	}
+	"l4d2_freezing_dc_04"
+	{
+		"en"		"4: Secret Lab"
+	}
+	"l4d2_freezing_dc_05"
+	{
+		"en"		"5: Gauntlet Finale"
+	}
+	"dfb2m1_city"
+	{
+		"en"		"1: The City"
+	}
+	"dfb2m2_library"
+	{
+		"en"		"2: The Library"
+	}
+	"dfb2m3_stadium"
+	{
+		"en"		"3: The Stadium"
+	}
+	"dfb2m4_woods"
+	{
+		"en"		"4: The Woods"
+	}
+	"dfb2m5_station"
+	{
+		"en"		"5: Train Station Finale"
+	}
+	"nc_forest"
+	{
+		"en"		"Taiga"
+	}
+	"nc_littletown"
+	{
+		"en"		"Little Town"
+	}
+	"nc_esqape"
+	{
+		"en"		"Square"
+	}
+	"nc_helicopter"
+	{
+		"en"		"Fire Station"
+	}
+	"potu4-0"
+	{
+		"en"		"boomer试炼"
+	}
+	"potu4-1"
+	{
+		"en"		"zombie试炼"
+	}
+	"potu4-2"
+	{
+		"en"		"spitter试炼"
+	}
+	"potu4-3"
+	{
+		"en"		"hunter试炼"
+	}
+	"potu4-4"
+	{
+		"en"		"smokey试炼"
+	}
+	"potu4-5"
+	{
+		"en"		"charger试炼"
+	}
+	"potu4-6"
+	{
+		"en"		"Witch试炼"
+	}
+	"potu4-7"
+	{
+		"en"		"jockey试炼"
+	}
+	"potu4-8"
+	{
+		"en"		"最终试炼"
+	}
+	"potu5-1"
+	{
+		"en"		"potu5-1"
+	}
+	"potu5-2"
+	{
+		"en"		"potu5-2"
+	}
+	"potu5-3"
+	{
+		"en"		"potu5-3"
+	}
+	"potu5-4"
+	{
+		"en"		"potu5-4"
+	}
+	"re1m1"
+	{
+		"en"		"Mansion"
+	}
+	"re1m2"
+	{
+		"en"		"Guard house"
+	}
+	"re1m3"
+	{
+		"en"		"Back in the mansion"
+	}
+	"re1m4"
+	{
+		"en"		"Underground"
+	}
+	"re1m5"
+	{
+		"en"		"Lab"
+	}
+	"re1m6"
+	{
+		"en"		"Escape"
+	}
+	"re2a1"
+	{
+		"en"		"Raccoon Streets"
+	}
+	"re2a2"
+	{
+		"en"		"Police Department"
+	}
+	"re2a3"
+	{
+		"en"		"Sewers"
+	}
+	"re2a4"
+	{
+		"en"		"Lab Escape"
+	}
+	"re2b1"
+	{
+		"en"		"Police Department"
+	}
+	"re2b2"
+	{
+		"en"		"Sewers"
+	}
+	"re2b3"
+	{
+		"en"		"Lab"
+	}
+	"re2b4"
+	{
+		"en"		"Train Platform"
+	}
+	"c3m1_boulevard"
+	{
+		"en"		"1: Boulevard"
+	}
+	"c3m2_square"
+	{
+		"en"		"2: Square"
+	}
+	"c3m3_waterfront"
+	{
+		"en"		"3: Waterfront"
+	}
+	"hui_zhi_m1"
+	{
+		"en"		"小镇"
+	}
+	"sui_zhi_m2"
+	{
+		"en"		"神社"
+	}
+	"lc_museum_hall25"
+	{
+		"en"		"Town Hall"
+	}
+	"lc_museum_offices"
+	{
+		"en"		"Office Building"
+	}
+	"lc_museum_gallery"
+	{
+		"en"		"Metro Station"
+	}
+	"l4d_mortuary02"
+	{
+		"en"		"Rooftop Carnage"
+	}
+	"l4d_mortuary03"
+	{
+		"en"		"The Mortuary"
+	}
+	"baka2_8"
+	{
+		"en"		"Mon. Funky Dream"
+	}
+	"baka2_9"
+	{
+		"en"		"Tue.   Funky Trail"
+	}
+	"baka2_11"
+	{
+		"en"		"Wed.   Funky VS Zombies"
+	}
+	"baka2_12"
+	{
+		"en"		"Thu.   Slope of Unfunky"
+	}
+	"baka2_13"
+	{
+		"en"		"Fri.   Eternal Funky Dream"
+	}
+	"baka2_14"
+	{
+		"en"		"WEEX.   Kaian Funkyway No.4"
+	}
+	"requiem_01"
+	{
+		"en"		"Aleph"
+	}
+	"requiem_02"
+	{
+		"en"		"Ascension"
+	}
+	"requiem_03"
+	{
+		"en"		"Immortal Garden"
+	}
+	"requiem_04"
+	{
+		"en"		"Night at the Museum"
+	}
+	"requiem_05"
+	{
+		"en"		"Steel Ball Run"
+	}
+	"zccity_lasthope_m1"
+	{
+		"en"		"地铁站"
+	}
+	"zccity_lasthope_m2"
+	{
+		"en"		"购物中心"
+	}
+	"zccity_lasthope_m3"
+	{
+		"en"		"货运码头"
+	}
+	"zccity_lasthope_m4"
+	{
+		"en"		"水坝"
+	}
+	"bs2_1"
+	{
+		"en"		"Traffic accident"
+	}
+	"bs2_2"
+	{
+		"en"		"Mis hell"
+	}
+	"bs2_3"
+	{
+		"en"		"Ancient tree hell"
+	}
+	"bs2_4"
+	{
+		"en"		"Green water hell"
+	}
+	"bs2_5"
+	{
+		"en"		"Sky hell"
+	}
+	"bs2_6"
+	{
+		"en"		"Crazzy wind hell"
+	}
+	"bs2_7"
+	{
+		"en"		"Flame hell"
+	}
+	"bs2_8"
+	{
+		"en"		"Sherbet hell"
+	}
+	"bs2_9"
+	{
+		"en"		"Venom hell"
+	}
+	"bs2_10"
+	{
+		"en"		"Thunder hell"
+	}
+	"bs2_11"
+	{
+		"en"		"sky city"
+	}
+	"bs2_12"
+	{
+		"en"		"Did you really escape?"
+	}
+	"bs_1_l4d2"
+	{
+		"en"		"荒山"
+	}
+	"bs_2_l4d2"
+	{
+		"en"		"冥界入口"
+	}
+	"bs_3_l4d2"
+	{
+		"en"		"冥界"
+	}
+	"bs_4_l4d2"
+	{
+		"en"		"逃离冥界？"
+	}
+	"kshatriya_tutorial99"
+	{
+		"en"		"kshatriya_tutorial99"
+	}
+	"ksh_lvl4_demo7"
+	{
+		"en"		"ksh_lvl4_demo7"
+	}
+	"ksh_lvl5_22"
+	{
+		"en"		"ksh_lvl5_22"
+	}
+	"death_sentence_1"
+	{
+		"en"		"satans square"
+	}
+	"death_sentence_2"
+	{
+		"en"		"The Stink of Flesh"
+	}
+	"death_sentence_3"
+	{
+		"en"		"hostil campsite"
+	}
+	"death_sentence_4"
+	{
+		"en"		"village of the damned"
+	}
+	"death_sentence_5"
+	{
+		"en"		"slaughter island"
+	}
+	"av1_canyon"
+	{
+		"en"		"1:Canyon"
+	}
+	"av2_cloudburst"
+	{
+		"en"		"2:Cloudburst"
+	}
+	"av3_congregation"
+	{
+		"en"		"3:Congregation"
+	}
+	"av4_college"
+	{
+		"en"		"4:College"
+	}
+	"av5_capitol"
+	{
+		"en"		"5:Capitol"
+	}
+	"av3_congregation_rain"
+	{
+		"en"		"6:Confusion"
+	}
+	"Moscow"
+	{
+		"en"		"City"
+	}
+	"Metro"
+	{
+		"en"		"Metro"
+	}
+	"Center"
+	{
+		"en"		"Mall"
+	}
+	"red_square"
+	{
+		"en"		"Red square"
+	}
+	"l4d2_ze_naruto"
+	{
+		"en"		"Naruto Village"
+	}
+	"dxyl1"
+	{
+		"en"		"Tunnel"
+	}
+	"dxyl2"
+	{
+		"en"		"Prison"
+	}
+	"dxyl3"
+	{
+		"en"		"Reactor"
+	}
+	"dxyl4_f"
+	{
+		"en"		"Metro"
+	}
+	"map_1_garden_of_rest"
+	{
+		"en"		"Rest"
+	}
+	"map_2_garden_of_the_sphinx"
+	{
+		"en"		"Sphinx"
+	}
+	"Map_3_Garden_of_Peace"
+	{
+		"en"		"Peace"
+	}
+	"map_4_garden_of_tranquility"
+	{
+		"en"		"Tranquility"
+	}
+	"map_5_tower_of_tranquility"
+	{
+		"en"		"Tower"
+	}
+	"map_6_lemons"
+	{
+		"en"		"Lemons"
+	}
+	"map_7_garden_of_heaven"
+	{
+		"en"		"Heaven"
+	}
+	"LS_FSL"
+	{
+		"en"		"灵城-丰收路"
+	}
+	"LS_FJL"
+	{
+		"en"		"灵城-丰江路"
+	}
+	"LS_ZSXML"
+	{
+		"en"		"灵城-中山路与第一幼儿园"
+	}
+	"LS_XML"
+	{
+		"en"		"灵城-西门街"
+	}
+	"LS_DXSC"
+	{
+		"en"		"灵城-地下商场"
+	}
+	"LS_RMGC"
+	{
+		"en"		"灵城-人民广场"
+	}
+	"LS_MEJAN"
+	{
+		"en"		"灵城-江岸"
+	}
+	"LS_LFSJQ"
+	{
+		"en"		"六峰山景区"
+	}
+	"LS_LFSJQ_CXF"
+	{
+		"en"		"六峰山-冲霄峰"
+	}
+	"li_c1m1_mainsquare"
+	{
+		"en"		"Caos en Plaza de Armas"
+	}
+	"li_c1m2_streets"
+	{
+		"en"		"Sangre en Pje Sta Rosa"
+	}
+	"li_c1m3_civiccenter"
+	{
+		"en"		"Colapso en Centro Civico"
+	}
+	"li_c1m4_jcterminal"
+	{
+		"en"		"Escape en Jorge Chavez"
+	}
+	"li_c1m5_jcrunway"
+	{
+		"en"		"Pista de la muerte"
+	}
+	"fos1m1_hill"
+	{
+		"en"		"Hill Road"
+	}
+	"fos1m2_fftown"
+	{
+		"en"		"Town Battle"
+	}
+	"fos1m3_factory"
+	{
+		"en"		"The Factory"
+	}
+	"fos1m4_moors"
+	{
+		"en"		"Moon Moors"
+	}
+	"fos1m5_92farm"
+	{
+		"en"		"Riverside Farm"
+	}
+	"ins_m1_buhriz"
+	{
+		"en"		"buhriz"
+	}
+	"ins_m2_district1"
+	{
+		"en"		"district1"
+	}
+	"ins_m3_district2"
+	{
+		"en"		"district2"
+	}
+	"ins_m4_revolt"
+	{
+		"en"		"revolt"
+	}
+	"ins_m5_tell"
+	{
+		"en"		"tell"
+	}
+	"ins_m6_ministry"
+	{
+		"en"		"ministry"
+	}
+	"mvm_decoy_touhou"
+	{
+		"en"		"mvm_decoy_touhou"
+	}
+	"vux_suken_re_m1"
+	{
+		"en"		"Wrong Stop"
+	}
+	"vux_suken_re_m2"
+	{
+		"en"		"Lower Street"
+	}
+	"vux_suken_re_m3"
+	{
+		"en"		"Water Treatment"
+	}
+	"vux_suken_re_m4"
+	{
+		"en"		"Upper Street"
+	}
+	"yichang02_1"
+	{
+		"en"		"宜昌东站"
+	}
+	"yichang02_2"
+	{
+		"en"		"列车"
+	}
+	"yichang02_3"
+	{
+		"en"		"村落"
+	}
+	"yichang02_4"
+	{
+		"en"		"增城-廖村村"
+	}
+	"l4d2_street"
+	{
+		"en"		"Street"
+	}
+	"l4d2maps_dust1"
+	{
+		"en"		"DUST1"
+	}
+	"l4d2maps_dust2"
+	{
+		"en"		"DUST2"
+	}
+	"l4d2maps_aztec"
+	{
+		"en"		"AZTEC"
+	}
+	"l4d2maps_inferno"
+	{
+		"en"		"INFERNO"
+	}
+	"l4d2maps_estate"
+	{
+		"en"		"ESTATE"
+	}
+	"l4d2_mapbgt"
+	{
+		"en"		"BAGUA"
+	}
+	"Upside_down_01"
+	{
+		"en"		"Structurally Unsound"
+	}
+	"Upside_down_02"
+	{
+		"en"		"Barely Attached"
+	}
+	"Upside_down_03"
+	{
+		"en"		"Crack the Sky"
+	}
+	"DawnsDeception01"
+	{
+		"en"		"Forest"
+	}
+	"DawnsDeception02"
+	{
+		"en"		"Factory"
+	}
+	"DawnsDeception03"
+	{
+		"en"		"Town"
+	}
+	"DawnsDeception04"
+	{
+		"en"		"InnerWorld"
+	}
+	"DawnsDeception05"
+	{
+		"en"		"Villa"
+	}
+	"l4d2_lotrm1_moria"
+	{
+		"en"		"Mines of Moria"
+	}
+	"l4d2_lotrm2_mordor"
+	{
+		"en"		"Mount Doom of Mordor"
+	}
+	"l4d2_lotrm3_helms_deep_redux"
+	{
+		"en"		"Battle of Helm's Deep"
+	}
+	"atg_aftermath1"
+	{
+		"en"		"1:东方自来水厂"
+	}
+	"atg_aftermath2"
+	{
+		"en"		"2:海洋酒店哨卡"
+	}
+	"atg_aftermath3"
+	{
+		"en"		"3:城南体育场"
+	}
+	"hualong"
+	{
+		"en"		"生活区"
+	}
+	"hualong2"
+	{
+		"en"		"教学区"
+	}
+	"hualong3"
+	{
+		"en"		"化龙湖道"
+	}
+	"bossfight"
+	{
+		"en"		"黄昏黑星（隐藏关boss战）"
+	}
+	"siheyuanfangshou"
+	{
+		"en"		"四合院内部"
+	}
+	"xiaochibian"
+	{
+		"en"		"池边公园"
+	}
+	"jvminglou"
+	{
+		"en"		"居民楼"
+	}
+	"mr_graycolor_1"
+	{
+		"en"		"town"
+	}
+	"mr_graycolor_2"
+	{
+		"en"		"sewer"
+	}
+	"mr_graycolor_3"
+	{
+		"en"		"aquarium"
+	}
+	"mr_graycolor_4"
+	{
+		"en"		"rave"
+	}
+	"earlydays1"
+	{
+		"en"		"Residential"
+	}
+	"earlydays2"
+	{
+		"en"		"Downtown"
+	}
+	"earlydays3"
+	{
+		"en"		"School"
+	}
+	"earlydays4"
+	{
+		"en"		"Suburbs"
+	}
+	"earlydays5"
+	{
+		"en"		"Power Plant"
+	}
+	"M1_LS_FSL_ND"
+	{
+		"en"		"灵城-丰收路"
+	}
+	"M2_LS_FJL_ND"
+	{
+		"en"		"灵城-丰江路"
+	}
+	"M3_LS_ZSLYEY_ND"
+	{
+		"en"		"灵城-中山路与第一幼儿园"
+	}
+	"M4_LS_XML_ND"
+	{
+		"en"		"灵城-西门街"
+	}
+	"M7_LS_RMGC_ND"
+	{
+		"en"		"灵城-人民广场"
+	}
+	"M8_LS_MEJAN_ND"
+	{
+		"en"		"灵城-江岸"
+	}
+	"M9_LS_LFSJQ_ND"
+	{
+		"en"		"六峰山景区"
+	}
+	"M10_LS_LFSJQ_CXF_ND"
+	{
+		"en"		"六峰山-冲霄峰"
+	}
+	"newyork_nyairlines"
+	{
+		"en"		"New York Airlines"
+	}
+	"newyork_mall"
+	{
+		"en"		"Central Mall"
+	}
+	"newyork_subway"
+	{
+		"en"		"Subway"
+	}
+	"newyork_nyairlines_horde"
+	{
+		"en"		"New York Airlines"
+	}
+	"mandrillmaze_01"
+	{
+		"en"		"Banana Mall"
+	}
+	"mandrillmaze_02"
+	{
+		"en"		"Mandrill Track Yard"
+	}
+	"mandrillmaze_03"
+	{
+		"en"		"Train Chase"
+	}
+	"mandrillmaze_04"
+	{
+		"en"		"Mandrill Forest"
+	}
+	"mandrillmaze_05"
+	{
+		"en"		"Mandrill Tower"
+	}
+	"mandrillmaze_06"
+	{
+		"en"		"Mandrill King"
+	}
+	"mandrillmaze_07"
+	{
+		"en"		"Final Escape"
+	}
+	"sxu_3"
+	{
+		"en"		"侯家巷"
+	}
+	"sxu_4_t"
+	{
+		"en"		"五一广场"
+	}
+	"l4d2_icecanyon1"
+	{
+		"en"		"Gorge"
+	}
+	"l4d2_icecanyon2"
+	{
+		"en"		"Frozen Lake"
+	}
+	"l4d2_icecanyon3"
+	{
+		"en"		"Edge Abyss"
+	}
+	"London_Suburbs"
+	{
+		"en"		"1: Suburbs"
+	}
+	"london_subway2"
+	{
+		"en"		"2: Undergroud"
+	}
+	"london_center2"
+	{
+		"en"		"3: Center"
+	}
+	"l4d2_palaciobuck3"
+	{
+		"en"		"4: buckingham"
+	}
+}
